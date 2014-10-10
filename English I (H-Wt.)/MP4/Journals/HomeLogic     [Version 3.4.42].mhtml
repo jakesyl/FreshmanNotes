@@ -1,0 +1,6510 @@
+From: <Saved by WebKit>
+Subject: HomeLogic?????[Version:3.4.42]
+Date: Wed, 3 Jun 2014 07:22:28 -0400
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_9B19_F4C4A647.1EEC63B0"
+
+------=_NextPart_000_9B19_F4C4A647.1EEC63B0
+Content-Type: text/html
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://homelogic.nhvweb.net/homelogicxe/spta.asp
+
+<html><head><meta charset=3D"ISO-8859-1">
+	<title>HomeLogic&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Version:3.4.42]</title>
+=09
+<style>
+=09
+TD.menuselected
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+	COLOR: #000000;
+    FONT-FAMILY: verdana, arial, helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+TD.menu
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 10px;
+	COLOR: #000000;
+    FONT-FAMILY: verdana, arial, helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+
+TD.courserequestselected
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+	COLOR: #000000;
+    FONT-FAMILY: verdana, arial, helvetica, sans-serif;
+    TEXT-DECORATION: none;
+    BACKGROUND-COLOR:#b4c4f1;
+}
+TD.courserequest
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 10px;
+	COLOR: #000000;
+    FONT-FAMILY: verdana, arial, helvetica, sans-serif;
+    TEXT-DECORATION: none;
+    BACKGROUND-COLOR:#8da5eb;
+}
+
+TD.message
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 12px;
+    FONT-FAMILY: verdana, arial, helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+
+TD
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 10px;
+    FONT-FAMILY: verdana, arial, helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+
+TR.header
+{
+    BACKGROUND-COLOR:#536a9c;
+    COLOR:#FFFFFF;
+}
+TR.caption
+{
+    BACKGROUND-COLOR:#8da5eb;
+}
+TR.caption2
+{
+    BACKGROUND-COLOR:#b4c4f1
+}
+TR.odd
+{
+	BACKGROUND-COLOR:#E1EAFF
+}
+
+TR.even
+{
+     BACKGROUND-COLOR:#C3D6FF
+}
+
+
+
+SELECT
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 10px;
+    FONT-FAMILY: Verdana, Arial, helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+TEXTAREA
+{
+	FONT-WEIGHT: normal;
+    FONT-SIZE: 10px;
+    FONT-FAMILY: Verdana, Arial, helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+INPUT
+{
+	FONT-WEIGHT: normal;
+    FONT-SIZE: 10px;
+    FONT-FAMILY: Verdana, Arial, helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+
+A:link {color:#0000FF; text-decoration:none}
+A:Visited {color:#0000FF; text-decoration:none}
+A:Hover {color:#0000FF; text-decoration:underline}
+
+A.menu:link {color:black; text-decoration:none}
+A.menu:Visited {color:black; text-decoration:none}
+A.menu:Hover {color:black; text-decoration:underline}
+
+A.plain:link {color: black;text-decoration: none}
+A.plain:visited {color: black;text-decoration: none}
+A.plain:active {color: black;text-decoration: none}
+A.plain:hover {color: black;text-decoration: none}
+
+@media print {
+	.printbutton {
+		display:none;
+	}
+=09
+	.HeaderPrintOnly {
+		visibility:visible
+	}
+=09
+	.HeaderScreenOnly {
+		visibility:hidden;display:none
+	 }
+	=20
+	 a.emaillink {
+		FONT-WEIGHT: normal;
+		COLOR: black;
+		FONT-SIZE: 10px;
+		FONT-FAMILY: Verdana, Arial, helvetica, sans-serif;
+		TEXT-DECORATION: none
+	}
+}
+
+@media screen {
+	 .HeaderPrintOnly {
+		visibility:hidden;display:none
+	 }
+	=20
+	 .HeaderScreenOnly {
+		visibility:visible
+	}
+=09
+	 a.emaillink {
+		FONT-WEIGHT: bold;
+		COLOR: #536A9C;
+		FONT-SIZE: 10px;
+		FONT-FAMILY: Verdana, Arial, helvetica, sans-serif;
+		TEXT-DECORATION: none
+	}=09
+}
+</style>
+=09
+
+<style type=3D"text/css"></style></head>
+<frameset rows=3D"65,*" border=3D"0">
+	<frame name=3D"Top" id=3D"Top" src=3D"https://homelogic.nhvweb.net/homelog=
+icxe/Banner.asp?" scrolling=3D"no" noresize=3D"" marginwidth=3D"0" marginhe=
+ight=3D"0" frameborder=3D"NO">
+	<frameset cols=3D"200,*">
+		<frame name=3D"Side" id=3D"Menu" src=3D"https://homelogic.nhvweb.net/home=
+logicxe/Menu_Side.asp?" scrolling=3D"auto" noresize=3D"" marginwidth=3D"0" =
+marginheight=3D"0" frameborder=3D"NO">
+		<frame name=3D"Main" id=3D"Main" src=3D"https://homelogic.nhvweb.net/home=
+logicxe/redirect.asp?" scrolling=3D"yes" noresize=3D"" marginwidth=3D"0" ma=
+rginheight=3D"0" frameborder=3D"NO">
+	</frameset>
+</frameset>
+</html>
+------=_NextPart_000_9B19_F4C4A647.1EEC63B0
+Content-Type: text/html
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://homelogic.nhvweb.net/homelogicxe/Banner.asp?
+
+<html><head><meta charset=3D"ISO-8859-1">
+
+
+<style type=3D"text/css"></style></head><body text=3D"#000000" leftmargin=
+=3D"0" topmargin=3D"0" marginwidth=3D"0" marginheight=3D"0">
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" heig=
+ht=3D"63" bgcolor=3D"#536A9C">
+	<tbody><tr>=20
+		<td rowspan=3D"2" width=3D"400px" nowrap=3D"" height=3D"63" background=3D=
+"https://homelogic.nhvweb.net/homelogicxe/images/homelogic_banner.jpg" styl=
+e=3D"background-repeat: no-repeat;background-position: 00% 00%" align=3D"le=
+ft" valign=3D"top">
+		&nbsp;</td>
+	=09
+		<td colspan=3D"4" nowrap=3D"" height=3D"23" class=3D"banner" align=3D"rig=
+ht" background=3D"https://homelogic.nhvweb.net/homelogicxe/images/banner_bg=
+.jpg">
+			<font color=3D"#ffffff">
+				<b>
+					Maryanne Sylvestre
+				</b>
+				 - North Hunterdon-Voorhees Regional High S&nbsp;&nbsp;
+			</font>
+		</td>
+	</tr>
+	<tr>
+		<td align=3D"center">
+			&nbsp;
+		</td>
+		<td align=3D"right" width=3D"40%" height=3D"40" nowrap=3D"">
+			<a href=3D"javascript:Contact();" onmouseout=3D"MM_swapImgRestore()" onm=
+ouseover=3D"MM_swapImage('contact','','images/contact_b.jpg',1)">
+				<img name=3D"contact" border=3D"0" src=3D"https://homelogic.nhvweb.net/=
+homelogicxe/images/contact_a.jpg" width=3D"37" height=3D"40"></a>
+			<a href=3D"javascript:Help();" onmouseout=3D"MM_swapImgRestore()" onmous=
+eover=3D"MM_swapImage('help','','images/help_b.jpg',1)">
+				<img name=3D"help" border=3D"0" src=3D"https://homelogic.nhvweb.net/hom=
+elogicxe/images/help_a.jpg" width=3D"37" height=3D"40"></a>
+			<a href=3D"javascript:Logout();" onmouseout=3D"MM_swapImgRestore()" onmo=
+useover=3D"MM_swapImage('logout','','images/logout_b.jpg',1)">
+				<img name=3D"logout" border=3D"0" src=3D"https://homelogic.nhvweb.net/h=
+omelogicxe/images/logout_a.jpg" width=3D"37" height=3D"40"></a>
+		</td>
+	</tr>
+</tbody></table>	=09
+=20
+</body></html>
+------=_NextPart_000_9B19_F4C4A647.1EEC63B0
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Location: https://homelogic.nhvweb.net/homelogicxe/images/contact_a.jpg
+
+/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEP
+ERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4e
+Hh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wgARCAAoACUDASIA
+AhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYD/8QAGQEAAwEBAQAAAAAAAAAAAAAAAQME
+AAIF/9oADAMBAAIQAxAAAAGsldmt6Eq1pnFWr7VgFadXPyDckaqGHosyvpcEcuSdQIm1oYgGH//E
+AB8QAAIBBAIDAAAAAAAAAAAAAAIEAwABBRQGEBIhNf/aAAgBAQABBQKl15mCvichaxiQFSC+02Oq
+lFuKVlFIn1a4x9DkHpwY4QLj/nqM3tdhSclmU2YmoqzWQFeLqMzjI33D7//EABwRAAEEAwEAAAAA
+AAAAAAAAAAIAARARAxIhUf/aAAgBAwEBPwEAtPj8gOtSYdeq4uP/xAAcEQABBAMBAAAAAAAAAAAA
+AAABAAIDEBESIiH/2gAIAQIBAT8Bll08CbOc9VNlr9kXmXlYoNAr/8QALxAAAgECBQECDwAAAAAA
+AAAAAQIDABEQEiExQXE0YQQTMjNRUnJzgZOisdHw8f/aAAgBAQAGPwKssMbOe6uz/UKyupVhwcEh
+2vuaWPPHCvFzau1QfMFeMhKs48hl57sG92fuKDSeZMViPWNzt+f4Q7vnj4A3PUcfvWpC5zXk0I2I
+sNqkKnTObUk6i5WhJE3UcjBoo3BmOns45o3ZD6QbVr4TL8Gtj//EACMQAQABAwMEAwEAAAAAAAAA
+AAERACExEEFRYXGBwZGx0fD/2gAIAQEAAT8hqC8ZhY7u1Sxfh/dLcyBhNGDUOwYClYaWnLlvmv7z
+3TMlrCbefGfOkb+bVHGA4JD0JM8J3mgE6P7Yw3vfZiwxvLdsI7LRG0RaIonC0RuTRAk4dzCfFSsh
+yZeHQeR2F+58Y16uBSooxuT6a//aAAwDAQACAAMAAAAQj48NX+hd8//EABoRAAIDAQEAAAAAAAAA
+AAAAAAExABARIUH/2gAIAQMBAT8QZKgvdY74J0OjRIuv/8QAGhEBAQEAAwEAAAAAAAAAAAAAAREA
+ECExUf/aAAgBAgEBPxCoCrp0QfnA6WmnA7cYl3kHH//EACIQAQEAAgICAgIDAAAAAAAAAAERACEx
+QRBRYZFxgbHR8f/aAAgBAQABPxDGf2EjKaqPKYwZD2H0XjK0jrvkdnh8NGxMq/HEr2mKOiNXZyCt
+ivLd5uIB6xJcavnqrilHOtvZ4ZLkL8v6bnea45mH8UChAcAj6ZkbuQR0IVpk5GYR7l6CAEhBzBIJ
+eFCiOJ+sYR162H4FSYaw0VOwPT/pTEm989Zs7GBJijdNcvZpL5MnpNMeqI4GEK0A33peO/P/2Q==
+------=_NextPart_000_9B19_F4C4A647.1EEC63B0
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Location: https://homelogic.nhvweb.net/homelogicxe/images/help_a.jpg
+
+/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEP
+ERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4e
+Hh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCAAoACUDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDmq0/D
+3h/WvEN2bXRdNuL2Rfv+Wvyp1xuY8LnB6kVc+H/h1/FXi2x0RXeNJmJlkVc7EUEk+3TGT3Ir6wC6
+B4H8KMypFp+lWMeSQM+2f9p2OPdia+ixWL9i1GKu2eZRo8+r2PmmX4SfEOOMu3h1yB/duoWP5B81
+xl7a3VldPa3ttNbXEZw8UyFHU+4PIr6h0/4myLcQza/4U1TQtJupdlrfzjMeMkAzDA8rPH94c9cD
+dVj4x+Brbxf4fmntoEXWLWMvbSoi75doJ8licfKcnvw3PqKwhjakZpVlZPsaSw6avBnyhRRRXpnI
+erfsvFB8Q7oN946ZIE+vmRf0zX0bqdhZapYyWWoWkN1bS48yKVAyPg5HH1ANfGXg/Xbjw14lstct
+Y0lltXJ2P0dSCrL7ZUkV9d+DvE+k+LNIj1LSbgOjDEkTHEkLd1cev/6xkV4uZUpqoqi2O/CzXLyn
+IeL2vvHPi248CW0a22i6c0E2tXL/AH5wwEkcMYzkA4yW46H0w/pa59e9ZWm6ZcWeu6tqEl5HJb3z
+QtFAlokbRFE2sWkHMm7A+990DArh/jT8RLTw5o1xpOmXkcmtzr5e1SH+zg4JZxng7T8ufUcEZrk5
+XWlGnD+u5tdQTkz5v8TSQzeI9Tlt3V4XvJWjZTkFS5wR+FFZ9FfSpWPLbu7hVnTr++025Fzp17c2
+c4GPMglaNsemQQaKKNwNu+8e+NL1VWfxPqgC54juGjBz67cZ6d65uiilGKjshuTe4UUUUyT/2Q==
+------=_NextPart_000_9B19_F4C4A647.1EEC63B0
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Location: https://homelogic.nhvweb.net/homelogicxe/images/logout_a.jpg
+
+/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEP
+ERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4e
+Hh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCAAoACUDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDmq0/D
+3h/WvEN2bXRdNuL6RfveWvyp1xuboucHqRVz4feHZPFXi2x0RXeNJmJlkRc7EUEk+3TGT3Ir64sr
+bQfCHh5IYza6XplqoG+RwiDJxlmPUknqeSTX0WKxfsLRSu2ebRo+01ex8wy/CP4hxIXbw45A/u3U
+LH8g9cZe2t1ZXT2t7bTW1xGcPFKhR1PuDyK+pPif8ToPBg0prbTI9Xh1GFpY5Y7sIu0bcEEKwYEN
+1rE1i1tvjD8Mpdbt9J+xavatILVd28lkwdgchdwYcZ6An2rGljKtlKrG0X1LnQhe0XqfOFFFFekc
+h6t+y8yD4iXQb7x0yQJ9fMj/AKZro/2h4tag1/SzBrt29rqDOzWToXtIIoBE+54lDeYA3mSMWVvl
+AGPl58c8H67c+GfEtlrlpGkktq5bYxwHUgqwz2yCRX1Z4Ru/Bvi6NfE+l2Ony3si4lma3QXMTFdh
+R2+8Dt+XrgjpkGvLxd6NZVrXVjso2nDk6nk3x/bTn0HQWvYo4L77Kf7Oj0uRZLIQ7l/iKqcbMbdo
+x+Fd5+zb/wAkwg/6+pv51c8Z/CvQfEttpdvLd31nHplsLW2WF1IEYAAB3Akngd65PxXrWl/CnwLL
+4S0jUXvdUnMhiOF3QB+rvjjI7cc/gTWHPGvRVGG9zXlcJuctrHhfiaSGbxJqctu6vC95K0bKcgqX
+OCPbFFZ1Fe2lZWPPbuFWdOv77Tbn7Tp17c2c4GPMglaNsemQQaKKNwN6++IHjW8h8qfxPqezOf3c
+xjJ+pXBI9q5iiilGMY7Ibk3uFFFFMk//2Q==
+------=_NextPart_000_9B19_F4C4A647.1EEC63B0
+Content-Type: text/html
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://homelogic.nhvweb.net/homelogicxe/Menu_Side.asp?main=marks&cid=0
+
+<html><head><meta charset=3D"ISO-8859-1">
+    <title>HomeLogic</title>
+	<style type=3D"text/css">
+	=09
+TD.menuselected
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+	COLOR: #000000;
+    FONT-FAMILY: verdana, arial, helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+TD.menu
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 10px;
+	COLOR: #000000;
+    FONT-FAMILY: verdana, arial, helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+
+TD.courserequestselected
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+	COLOR: #000000;
+    FONT-FAMILY: verdana, arial, helvetica, sans-serif;
+    TEXT-DECORATION: none;
+    BACKGROUND-COLOR:#b4c4f1;
+}
+TD.courserequest
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 10px;
+	COLOR: #000000;
+    FONT-FAMILY: verdana, arial, helvetica, sans-serif;
+    TEXT-DECORATION: none;
+    BACKGROUND-COLOR:#8da5eb;
+}
+
+TD.message
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 12px;
+    FONT-FAMILY: verdana, arial, helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+
+TD
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 10px;
+    FONT-FAMILY: verdana, arial, helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+
+TR.header
+{
+    BACKGROUND-COLOR:#536a9c;
+    COLOR:#FFFFFF;
+}
+TR.caption
+{
+    BACKGROUND-COLOR:#8da5eb;
+}
+TR.caption2
+{
+    BACKGROUND-COLOR:#b4c4f1
+}
+TR.odd
+{
+	BACKGROUND-COLOR:#E1EAFF
+}
+
+TR.even
+{
+     BACKGROUND-COLOR:#C3D6FF
+}
+
+
+
+SELECT
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 10px;
+    FONT-FAMILY: Verdana, Arial, helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+TEXTAREA
+{
+	FONT-WEIGHT: normal;
+    FONT-SIZE: 10px;
+    FONT-FAMILY: Verdana, Arial, helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+INPUT
+{
+	FONT-WEIGHT: normal;
+    FONT-SIZE: 10px;
+    FONT-FAMILY: Verdana, Arial, helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+
+A:link {color:#0000FF; text-decoration:none}
+A:Visited {color:#0000FF; text-decoration:none}
+A:Hover {color:#0000FF; text-decoration:underline}
+
+A.menu:link {color:black; text-decoration:none}
+A.menu:Visited {color:black; text-decoration:none}
+A.menu:Hover {color:black; text-decoration:underline}
+
+A.plain:link {color: black;text-decoration: none}
+A.plain:visited {color: black;text-decoration: none}
+A.plain:active {color: black;text-decoration: none}
+A.plain:hover {color: black;text-decoration: none}
+
+@media print {
+	.printbutton {
+		display:none;
+	}
+=09
+	.HeaderPrintOnly {
+		visibility:visible
+	}
+=09
+	.HeaderScreenOnly {
+		visibility:hidden;display:none
+	 }
+	=20
+	 a.emaillink {
+		FONT-WEIGHT: normal;
+		COLOR: black;
+		FONT-SIZE: 10px;
+		FONT-FAMILY: Verdana, Arial, helvetica, sans-serif;
+		TEXT-DECORATION: none
+	}
+}
+
+@media screen {
+	 .HeaderPrintOnly {
+		visibility:hidden;display:none
+	 }
+	=20
+	 .HeaderScreenOnly {
+		visibility:visible
+	}
+=09
+	 a.emaillink {
+		FONT-WEIGHT: bold;
+		COLOR: #536A9C;
+		FONT-SIZE: 10px;
+		FONT-FAMILY: Verdana, Arial, helvetica, sans-serif;
+		TEXT-DECORATION: none
+	}=09
+}
+	</style>
+=09
+=09
+<style type=3D"text/css"></style></head>
+<body style=3D"background-color:#C3D6FF" marginwidth=3D"0" marginheight=3D"=
+0">
+
+
+<table border=3D"0" cellpadding=3D"1" cellspacing=3D"0">
+=09
+			<tbody><tr>
+			=09
+					<td style=3D"width:5px" class=3D"menuselected" align=3D"center">
+						<a href=3D"javascript:ChangeStudent(70325,'close');" class=3D"menu">
+							-
+						</a>=09
+					</td>
+					<td class=3D"menuselected" colspan=3D"3">
+						<font size=3D"2">
+						<a href=3D"javascript:ChangeStudent(70325,'close');" class=3D"menu">
+							<b>
+								Jake Sylvestre
+							</b>
+						</a>
+						</font>
+					</td>
+			=09
+			=09
+			</tr>
+		=09
+			=09
+				<tr>
+					<td>&nbsp;</td>
+					<td style=3D"width:5px">&nbsp;</td>
+					<td class=3D"menu" colspan=3D"2">
+						<a href=3D"javascript:Redirect('schedule',0);" class=3D"menu">
+							Schedule
+						</a>
+					</td>
+				</tr>
+			=09
+					<tr>
+						<td>&nbsp;</td>
+						<td style=3D"width:5px">&nbsp;</td>
+						<td class=3D"menu" colspan=3D"2">
+							<a href=3D"javascript:Redirect('attendance',0);" class=3D"menu">
+								Attendance
+							</a>
+						</td>
+					</tr>
+			=09
+					<tr>
+						<td style=3D"width:5px">&nbsp;</td>
+				=09
+							<td class=3D"menuselected" style=3D"width:5px">
+							=09
+									<a href=3D"javascript:Redirect('marks',0);" class=3D"menu">
+										-
+									</a>
+							=09
+							</td>			=09
+							<td class=3D"menuselected" colspan=3D"2">
+								<a href=3D"javascript:Redirect('marks',0);" class=3D"menu">
+									Grades
+								</a>
+							</td>					=09
+					=09
+			</tr><tr>
+				<td style=3D"width:5px">&nbsp;</td>
+				<td style=3D"width:5px">&nbsp;</td>
+				<td style=3D"width:5px">&nbsp;</td>
+			=09
+					<td class=3D"menu">
+						<a href=3D"javascript:Redirect('taskgradesreport',21905);" class=3D"m=
+enu">
+							<font color=3D"#536A9C">
+								Adv  Academic Literacy - 1 - 13-14
+							</font>
+						</a>
+					</td>
+			=09
+			</tr><tr>
+				<td style=3D"width:5px">&nbsp;</td>
+				<td style=3D"width:5px">&nbsp;</td>
+				<td style=3D"width:5px">&nbsp;</td>
+			=09
+					<td class=3D"menu">
+						<a href=3D"javascript:Redirect('taskgradesreport',21673);" class=3D"m=
+enu">
+							<font color=3D"#536A9C">
+								Algebra I Cp - 03-04
+							</font>
+						</a>
+					</td>
+			=09
+			</tr><tr>
+				<td style=3D"width:5px">&nbsp;</td>
+				<td style=3D"width:5px">&nbsp;</td>
+				<td style=3D"width:5px">&nbsp;</td>
+			=09
+					<td class=3D"menu">
+						<a href=3D"javascript:Redirect('taskgradesreport',21966);" class=3D"m=
+enu">
+							<font color=3D"#536A9C">
+								English I H/Wt - 05-06
+							</font>
+						</a>
+					</td>
+			=09
+			</tr><tr>
+				<td style=3D"width:5px">&nbsp;</td>
+				<td style=3D"width:5px">&nbsp;</td>
+				<td style=3D"width:5px">&nbsp;</td>
+			=09
+					<td class=3D"menu">
+						<a href=3D"javascript:Redirect('taskgradesreport',21929);" class=3D"m=
+enu">
+							<font color=3D"#536A9C">
+								Financial Literacy - 2 - 11-12
+							</font>
+						</a>
+					</td>
+			=09
+			</tr><tr>
+				<td style=3D"width:5px">&nbsp;</td>
+				<td style=3D"width:5px">&nbsp;</td>
+				<td style=3D"width:5px">&nbsp;</td>
+			=09
+					<td class=3D"menu">
+						<a href=3D"javascript:Redirect('taskgradesreport',21754);" class=3D"m=
+enu">
+							<font color=3D"#536A9C">
+								Graphic Tech I - 2 - 13-14
+							</font>
+						</a>
+					</td>
+			=09
+			</tr><tr>
+				<td style=3D"width:5px">&nbsp;</td>
+				<td style=3D"width:5px">&nbsp;</td>
+				<td style=3D"width:5px">&nbsp;</td>
+			=09
+					<td class=3D"menu">
+						<a href=3D"javascript:Redirect('taskgradesreport',22025);" class=3D"m=
+enu">
+							<font color=3D"#536A9C">
+								Health 9 - 1 - 01-02
+							</font>
+						</a>
+					</td>
+			=09
+			</tr><tr>
+				<td style=3D"width:5px">&nbsp;</td>
+				<td style=3D"width:5px">&nbsp;</td>
+				<td style=3D"width:5px">&nbsp;</td>
+			=09
+					<td class=3D"menu">
+						<a href=3D"javascript:Redirect('taskgradesreport',21490);" class=3D"m=
+enu">
+							<font color=3D"#536A9C">
+								Intr To Java Cp - 1 - 11-12
+							</font>
+						</a>
+					</td>
+			=09
+			</tr><tr>
+				<td style=3D"width:5px">&nbsp;</td>
+				<td style=3D"width:5px">&nbsp;</td>
+				<td style=3D"width:5px">&nbsp;</td>
+			=09
+					<td class=3D"menu">
+						<a href=3D"javascript:Redirect('taskgradesreport',21657);" class=3D"m=
+enu">
+							<font color=3D"#536A9C">
+								Lab Physics Cp - 07-08
+							</font>
+						</a>
+					</td>
+			=09
+			</tr><tr>
+				<td style=3D"width:5px">&nbsp;</td>
+				<td style=3D"width:5px">&nbsp;</td>
+				<td style=3D"width:5px">&nbsp;</td>
+			=09
+					<td class=3D"menu">
+						<a href=3D"javascript:Redirect('taskgradesreport',21465);" class=3D"m=
+enu">
+							<font color=3D"#536A9C">
+								Latin I CP - 15-16
+							</font>
+						</a>
+					</td>
+			=09
+			</tr><tr>
+				<td style=3D"width:5px">&nbsp;</td>
+				<td style=3D"width:5px">&nbsp;</td>
+				<td style=3D"width:5px">&nbsp;</td>
+			=09
+					<td class=3D"menu">
+						<a href=3D"javascript:Redirect('taskgradesreport',21239);" class=3D"m=
+enu">
+							<font color=3D"#536A9C">
+								NILunch 2 Mods S1 - 1 - 09-10
+							</font>
+						</a>
+					</td>
+			=09
+			</tr><tr>
+				<td style=3D"width:5px">&nbsp;</td>
+				<td style=3D"width:5px">&nbsp;</td>
+				<td style=3D"width:5px">&nbsp;</td>
+			=09
+					<td class=3D"menu">
+						<a href=3D"javascript:Redirect('taskgradesreport',21240);" class=3D"m=
+enu">
+							<font color=3D"#536A9C">
+								NILunch 2 Mods S2 - 2 - 09-10
+							</font>
+						</a>
+					</td>
+			=09
+			</tr><tr>
+				<td style=3D"width:5px">&nbsp;</td>
+				<td style=3D"width:5px">&nbsp;</td>
+				<td style=3D"width:5px">&nbsp;</td>
+			=09
+					<td class=3D"menu">
+						<a href=3D"javascript:Redirect('taskgradesreport',21170);" class=3D"m=
+enu">
+							<font color=3D"#536A9C">
+								NIWRESTLING - WR
+							</font>
+						</a>
+					</td>
+			=09
+			</tr><tr>
+				<td style=3D"width:5px">&nbsp;</td>
+				<td style=3D"width:5px">&nbsp;</td>
+				<td style=3D"width:5px">&nbsp;</td>
+			=09
+					<td class=3D"menu">
+						<a href=3D"javascript:Redirect('taskgradesreport',22074);" class=3D"m=
+enu">
+							<font color=3D"#536A9C">
+								Phys Ed 9 - 2 - 01-02
+							</font>
+						</a>
+					</td>
+			=09
+			</tr><tr>
+				<td style=3D"width:5px">&nbsp;</td>
+				<td style=3D"width:5px">&nbsp;</td>
+				<td style=3D"width:5px">&nbsp;</td>
+			=09
+					<td class=3D"menu">
+						<a href=3D"javascript:Redirect('taskgradesreport',21865);" class=3D"m=
+enu">
+							<font color=3D"#536A9C">
+								U.S.History I Hwt - 17-18
+							</font>
+						</a>
+					</td>
+			=09
+					</tr>
+			=09
+					<tr>
+						<td style=3D"width:5px">&nbsp;</td>
+				=09
+						<td class=3D"menu" style=3D"width:5px">
+							<a href=3D"javascript:Redirect('assignments',0);" class=3D"menu">
+								+
+							</a>
+						</td>			=09
+						<td class=3D"menu" colspan=3D"2">
+							<a href=3D"javascript:Redirect('assignments',0);" class=3D"menu">
+								Assignments
+							</a>
+						</td>
+				=09
+					</tr>
+			=09
+					<tr>
+						<td>&nbsp;</td>
+						<td style=3D"width:5px">&nbsp;</td>
+						<td class=3D"menu" colspan=3D"2">
+							<a href=3D"javascript:Redirect('fees',0);" class=3D"menu">
+								Fees
+							</a>
+						</td>
+					</tr>
+			=09
+					<tr>
+						<td>&nbsp;</td>
+						<td style=3D"width:5px">&nbsp;</td>
+						<td class=3D"menu" colspan=3D"2" nowrap=3D"">
+							<a href=3D"javascript:Redirect('gradrequirements',0);" class=3D"menu=
+">
+								Graduation Requirements
+							</a>
+						</td>
+					</tr>
+			=09
+					<tr>
+						<td>&nbsp;</td>
+						<td style=3D"width:5px">&nbsp;</td>
+						<td class=3D"menu" colspan=3D"2">
+							<a href=3D"javascript:Redirect('markshistory',0);" class=3D"menu">
+								Transcript
+							</a>
+						</td>
+					</tr>
+			=09
+						<tr>
+							<td>&nbsp;</td>
+							<td style=3D"width:5px">&nbsp;</td>
+							<td class=3D"menu" colspan=3D"2">
+								<a href=3D"javascript:CourseRequestsVerification('courserequest_ver=
+ification',0);" class=3D"menu">
+									Course Requests
+								</a>
+							</td>
+						</tr>=09
+					=09
+			<tr>
+			=09
+					<td style=3D"width:5px" class=3D"menu" align=3D"center">
+						<a href=3D"javascript:ChangeStudent(70261,'open');" class=3D"menu">
+							+
+						</a>
+					</td>
+					<td class=3D"menu" colspan=3D"3">
+						<font size=3D"2">
+						<a href=3D"javascript:ChangeStudent(70261,'open');" class=3D"menu">
+							Sarah Sylvestre
+						</a>
+						</font>
+					</td>
+			=09
+			=09
+			</tr>
+		=09
+		<tr>
+=09
+				<td class=3D"menu">
+					<a href=3D"javascript:StudRedirect('demographics',0);" class=3D"menu">
+						+
+					</a></td>
+		=09
+			<td class=3D"menu" colspan=3D"3">
+			=09
+				<a href=3D"javascript:StudRedirect('demographics',0);" class=3D"menu">
+					Demographics
+				</a>	=09
+			</td>
+		</tr>=09
+	=09
+	<tr>
+		<td colspan=3D"4">
+			<a href=3D"javascript:Redirect('fees_family',0);" class=3D"menu">
+				Family Fee Summary
+			</a>
+		</td>
+	</tr>
+=09
+		<tr>
+		=09
+			<td class=3D"menu" colspan=3D"4">
+				<a href=3D"javascript:Redirect('preferences',0);" class=3D"menu">
+					Preferences
+				</a>	=09
+			</td>
+		</tr>
+	=09
+	=09
+	=09
+
+</tbody></table></body></html>
+------=_NextPart_000_9B19_F4C4A647.1EEC63B0
+Content-Type: text/html
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://homelogic.nhvweb.net/homelogicxe/Marks.asp?frm=Marks&cid=21966&order=3#Details
+
+<html><head><meta charset=3D"ISO-8859-1">
+	<style>
+	=09
+TD.menuselected
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+	COLOR: #000000;
+    FONT-FAMILY: verdana, arial, helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+TD.menu
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 10px;
+	COLOR: #000000;
+    FONT-FAMILY: verdana, arial, helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+
+TD.courserequestselected
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+	COLOR: #000000;
+    FONT-FAMILY: verdana, arial, helvetica, sans-serif;
+    TEXT-DECORATION: none;
+    BACKGROUND-COLOR:#b4c4f1;
+}
+TD.courserequest
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 10px;
+	COLOR: #000000;
+    FONT-FAMILY: verdana, arial, helvetica, sans-serif;
+    TEXT-DECORATION: none;
+    BACKGROUND-COLOR:#8da5eb;
+}
+
+TD.message
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 12px;
+    FONT-FAMILY: verdana, arial, helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+
+TD
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 10px;
+    FONT-FAMILY: verdana, arial, helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+
+TR.header
+{
+    BACKGROUND-COLOR:#536a9c;
+    COLOR:#FFFFFF;
+}
+TR.caption
+{
+    BACKGROUND-COLOR:#8da5eb;
+}
+TR.caption2
+{
+    BACKGROUND-COLOR:#b4c4f1
+}
+TR.odd
+{
+	BACKGROUND-COLOR:#E1EAFF
+}
+
+TR.even
+{
+     BACKGROUND-COLOR:#C3D6FF
+}
+
+
+
+SELECT
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 10px;
+    FONT-FAMILY: Verdana, Arial, helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+TEXTAREA
+{
+	FONT-WEIGHT: normal;
+    FONT-SIZE: 10px;
+    FONT-FAMILY: Verdana, Arial, helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+INPUT
+{
+	FONT-WEIGHT: normal;
+    FONT-SIZE: 10px;
+    FONT-FAMILY: Verdana, Arial, helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+
+A:link {color:#0000FF; text-decoration:none}
+A:Visited {color:#0000FF; text-decoration:none}
+A:Hover {color:#0000FF; text-decoration:underline}
+
+A.menu:link {color:black; text-decoration:none}
+A.menu:Visited {color:black; text-decoration:none}
+A.menu:Hover {color:black; text-decoration:underline}
+
+A.plain:link {color: black;text-decoration: none}
+A.plain:visited {color: black;text-decoration: none}
+A.plain:active {color: black;text-decoration: none}
+A.plain:hover {color: black;text-decoration: none}
+
+@media print {
+	.printbutton {
+		display:none;
+	}
+=09
+	.HeaderPrintOnly {
+		visibility:visible
+	}
+=09
+	.HeaderScreenOnly {
+		visibility:hidden;display:none
+	 }
+	=20
+	 a.emaillink {
+		FONT-WEIGHT: normal;
+		COLOR: black;
+		FONT-SIZE: 10px;
+		FONT-FAMILY: Verdana, Arial, helvetica, sans-serif;
+		TEXT-DECORATION: none
+	}
+}
+
+@media screen {
+	 .HeaderPrintOnly {
+		visibility:hidden;display:none
+	 }
+	=20
+	 .HeaderScreenOnly {
+		visibility:visible
+	}
+=09
+	 a.emaillink {
+		FONT-WEIGHT: bold;
+		COLOR: #536A9C;
+		FONT-SIZE: 10px;
+		FONT-FAMILY: Verdana, Arial, helvetica, sans-serif;
+		TEXT-DECORATION: none
+	}=09
+}
+	</style>
+=09
+<style type=3D"text/css"></style></head>
+<body marginwidth=3D"0" marginheight=3D"0" onload=3D"window.location.href=
+=3D'#Details'">
+
+
+<table width=3D"95%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=
+=3D"center" valign=3D"middle" class=3D"headerprintonly">
+	<tbody><tr>=20
+		<td align=3D"center" colspan=3D"2" width=3D"80%"><font size=3D"3"><b>
+			North Hunterdon High School                      =20
+		</b></font></td>
+		<!--<td rowspan=3D"3" align=3D"center"><font size=3D"2">
+			Jun 3, 2014
+		</td>-->
+     </tr>
+     <tr>=20
+		<td align=3D"center" colspan=3D"2"><font size=3D"2">
+		=09
+		</font></td>
+     </tr>
+     <tr>=20
+		<td align=3D"center" colspan=3D"2"><font size=3D"2">
+			(908) 735-5191
+		</font></td>
+     </tr>
+     <tr>=20
+		<td align=3D"center" colspan=3D"32">
+			<br>&nbsp;
+			<!--<hr>-->
+		</td>
+     </tr>
+     </tbody></table>
+	<table width=3D"95%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" alig=
+n=3D"center" valign=3D"middle" class=3D"headerprintonly">
+     <tbody><tr>=20
+	=09
+			<td align=3D"left" width=3D"40%"><font size=3D"2"><b>
+				 Sylvestre, Jake (20170594)
+			</b></font></td>
+			<td align=3D"left" width=3D"30%"><font size=3D"2">
+				<b>Grade: </b>09
+			</font></td>
+	=09
+			<td align=3D"left" width=3D"30%"><font size=3D"2">
+				<b>Counselor:</b> Jordan
+			</font></td>
+	=09
+     </tr>
+=09
+		 <tr>=20
+		<td align=3D"center" colspan=3D"32">
+			<br>&nbsp;
+		</td>
+     </tr>	=09
+</tbody></table>
+
+
+	<table width=3D"95%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" alig=
+n=3D"center" class=3D"headerprintonly">
+		<tbody><tr class=3D"caption">=20
+				<td width=3D"100%">=20
+					<div align=3D"center">
+						<font size=3D"2">
+							<b>
+								Report Card Grades
+							</b>
+						</font>
+				</div></td>
+	        </tr>    =20
+		</tbody></table>=09
+
+	=09
+	<table width=3D"95%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" alig=
+n=3D"center" valign=3D"top" class=3D"HeaderScreenOnly">
+		<tbody><tr valign=3D"top">
+			<td width=3D"100%" align=3D"left">
+				<font color=3D"#536A9C">
+					<b>Note: If a class listed has an asterisk (*), then it is a module of=
+ a course</b>
+				</font>
+			</td>
+		</tr>
+	</tbody></table>
+	<table width=3D"95%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" alig=
+n=3D"center" valign=3D"middle" class=3D"HeaderScreenOnly">
+		<tbody><tr>=20
+			<td width=3D"9" align=3D"right" valign=3D"top" height=3D"17">
+				<img src=3D"https://homelogic.nhvweb.net/homelogicxe/images/corner1.gif=
+" width=3D"9" height=3D"20" class=3D"printbutton" alt=3D""></td>
+		=09
+	        <td bgcolor=3D"#536A9C" valign=3D"middle" align=3D"center">=20
+				<font size=3D"2" color=3D"#FFFFFF">
+					<b>&nbsp;&nbsp;Report Card Grades For Jake Sylvestre</b>
+				</font>           =20
+	        </td>
+	       =20
+			<td width=3D"9" valign=3D"top" height=3D"17" align=3D"left">
+				<img src=3D"https://homelogic.nhvweb.net/homelogicxe/images/corner2.gif=
+" width=3D"9" height=3D"20" class=3D"printbutton" alt=3D""></td>
+	     </tr>
+	</tbody></table>
+
+<table width=3D"95%" border=3D"0" cellspacing=3D"0" cellpadding=3D"1" align=
+=3D"center" valign=3D"top">
+	<tbody><tr class=3D"caption">=20
+		<td width=3D"*">&nbsp;</td>
+        <td width=3D"*">
+		=09
+					<a href=3D"https://homelogic.nhvweb.net/homelogicxe/Marks.asp?order=3D=
+0" style=3D"cursor:pointer" title=3D"Sort by Class">
+					<b>
+						Class
+					</b>
+                    </a>
+		=09
+        </td>
+		<td width=3D"*">
+			Instructor
+		</td>
+        <td width=3D"*">
+		=09
+				<a href=3D"https://homelogic.nhvweb.net/homelogicxe/Marks.asp?order=3D2=
+" style=3D"cursor:pointer" title=3D"Sort by  Report Period">
+					<b>
+						Report Period&nbsp;&#8659;
+					</b>
+		=09
+			</a>
+		</td>
+        <td height=3D"22" width=3D"*" align=3D"center">
+			Mark
+		</td>
+        <td height=3D"22" width=3D"*" align=3D"center">
+			Alpha
+		 </td>
+        =20
+        <td height=3D"22" width=3D"*" align=3D"center">
+			Exam
+		</td>
+        <td height=3D"22" width=3D"*" align=3D"center">
+			Final
+		</td>
+	=09
+		<td height=3D"22" width=3D"*" align=3D"center">
+			Effort
+		</td>
+        <td height=3D"22" width=3D"*">
+			Credit
+		</td>
+	</tr>
+	<tr class=3D"headerprintonly">
+		<td colspan=3D"10">
+			<hr>
+		</td>
+	</tr>
+=09
+
+	<tr class=3D"even">              =20
+		<td width=3D"*">&nbsp;</td>
+   =20
+			<td width=3D"*" nowrap=3D"" align=3D"left">
+			=09
+					<a href=3D"https://homelogic.nhvweb.net/homelogicxe/Marks.asp?frm=3DMa=
+rks&amp;cid=3D21966&amp;order=3D3#" title=3D"Expand Grade Details for Algeb=
+ra I Cp - 03-04" onclick=3D"javascript:ExpandTaskGrades('21673','3');" clas=
+s=3D"emaillink">
+				Algebra I Cp - 03-04</a>
+			</td>				=09
+	=09
+			<td width=3D"*">
+				Mr. Maurella                                       =20
+			</td>
+		    <td width=3D"*">
+				MP3                          =20
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+				A =20
+			</td>
+		=09
+            <td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+		=09
+			<td width=3D"*" align=3D"center">
+				<b>                                                                    =
+                                                                           =
+                                                                           =
+                                    </b>
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+            </td>
+		</tr>
+            =20
+               <tr class=3D"even">
+				<td colspan=3D"10 %>" valign=3D"bottom" height=3D"1px">&nbsp;</td>=20
+				</tr>
+              =20
+	<tr class=3D"odd">              =20
+		<td width=3D"*">&nbsp;</td>
+   =20
+			<td width=3D"*" nowrap=3D"" align=3D"left">
+			=09
+					<a href=3D"https://homelogic.nhvweb.net/homelogicxe/Marks.asp?frm=3DMa=
+rks&amp;cid=3D21966&amp;order=3D3#" title=3D"Expand Grade Details for Engli=
+sh I H/Wt - 05-06" onclick=3D"javascript:ExpandTaskGrades('21966','3');" cl=
+ass=3D"emaillink">
+				English I H/Wt - 05-06</a>
+			</td>				=09
+	=09
+			<td width=3D"*">
+				 Meo                                               =20
+			</td>
+		    <td width=3D"*">
+				MP3                          =20
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+				B =20
+			</td>
+		=09
+            <td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+		=09
+			<td width=3D"*" align=3D"center">
+				<b>                                                                    =
+                                                                           =
+                                                                           =
+                                    </b>
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+            </td>
+		</tr>
+            =20
+               <tr class=3D"odd">
+				<td colspan=3D"10 %>" valign=3D"bottom" height=3D"1px">&nbsp;</td>=20
+				</tr>
+              =20
+	<tr class=3D"even">              =20
+		<td width=3D"*">&nbsp;</td>
+   =20
+			<td width=3D"*" nowrap=3D"" align=3D"left">
+			=09
+					<a href=3D"https://homelogic.nhvweb.net/homelogicxe/Marks.asp?frm=3DMa=
+rks&amp;cid=3D21966&amp;order=3D3#" title=3D"Expand Grade Details for Finan=
+cial Literacy - 2 - 11-12" onclick=3D"javascript:ExpandTaskGrades('21929','=
+3');" class=3D"emaillink">
+				Financial Literacy - 2 - 11-12</a>
+			</td>				=09
+	=09
+			<td width=3D"*">
+				 Rotondo                                           =20
+			</td>
+		    <td width=3D"*">
+				MP3                          =20
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+				B =20
+			</td>
+		=09
+            <td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+		=09
+			<td width=3D"*" align=3D"center">
+				<b>                                                                    =
+                                                                           =
+                                                                           =
+                                    </b>
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+            </td>
+		</tr>
+            =20
+						<tr class=3D"even">
+							<td width=3D"*">&nbsp;</td>
+							<td width=3D"*">&nbsp;</td>
+							<td width=3D"*" colspan=3D"8">
+								<i>Satisfactory Progress</i>
+							</td>
+						</tr>
+					  =20
+               <tr class=3D"even">
+				<td colspan=3D"10 %>" valign=3D"bottom" height=3D"1px">&nbsp;</td>=20
+				</tr>
+              =20
+	<tr class=3D"odd">              =20
+		<td width=3D"*">&nbsp;</td>
+   =20
+			<td width=3D"*" nowrap=3D"" align=3D"left">
+			=09
+					<a href=3D"https://homelogic.nhvweb.net/homelogicxe/Marks.asp?frm=3DMa=
+rks&amp;cid=3D21966&amp;order=3D3#" title=3D"Expand Grade Details for Graph=
+ic Tech I - 2 - 13-14" onclick=3D"javascript:ExpandTaskGrades('21754','3');=
+" class=3D"emaillink">
+				Graphic Tech I - 2 - 13-14</a>
+			</td>				=09
+	=09
+			<td width=3D"*">
+				 Stone                                             =20
+			</td>
+		    <td width=3D"*">
+				MP3                          =20
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+				A =20
+			</td>
+		=09
+            <td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+		=09
+			<td width=3D"*" align=3D"center">
+				<b>                                                                    =
+                                                                           =
+                                                                           =
+                                    </b>
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+            </td>
+		</tr>
+            =20
+               <tr class=3D"odd">
+				<td colspan=3D"10 %>" valign=3D"bottom" height=3D"1px">&nbsp;</td>=20
+				</tr>
+              =20
+	<tr class=3D"even">              =20
+		<td width=3D"*">&nbsp;</td>
+   =20
+			<td width=3D"*" nowrap=3D"" align=3D"left">
+			=09
+					<a href=3D"https://homelogic.nhvweb.net/homelogicxe/Marks.asp?frm=3DMa=
+rks&amp;cid=3D21966&amp;order=3D3#" title=3D"Expand Grade Details for Lab P=
+hysics Cp - 07-08" onclick=3D"javascript:ExpandTaskGrades('21657','3');" cl=
+ass=3D"emaillink">
+				Lab Physics Cp - 07-08</a>
+			</td>				=09
+	=09
+			<td width=3D"*">
+				 Collins                                           =20
+			</td>
+		    <td width=3D"*">
+				MP3                          =20
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+				B =20
+			</td>
+		=09
+            <td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+		=09
+			<td width=3D"*" align=3D"center">
+				<b>                                                                    =
+                                                                           =
+                                                                           =
+                                    </b>
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+            </td>
+		</tr>
+            =20
+               <tr class=3D"even">
+				<td colspan=3D"10 %>" valign=3D"bottom" height=3D"1px">&nbsp;</td>=20
+				</tr>
+              =20
+	<tr class=3D"odd">              =20
+		<td width=3D"*">&nbsp;</td>
+   =20
+			<td width=3D"*" nowrap=3D"" align=3D"left">
+			=09
+					<a href=3D"https://homelogic.nhvweb.net/homelogicxe/Marks.asp?frm=3DMa=
+rks&amp;cid=3D21966&amp;order=3D3#" title=3D"Expand Grade Details for Latin=
+ I CP - 15-16" onclick=3D"javascript:ExpandTaskGrades('21465','3');" class=
+=3D"emaillink">
+				Latin I CP - 15-16</a>
+			</td>				=09
+	=09
+			<td width=3D"*">
+				 Mullay                                            =20
+			</td>
+		    <td width=3D"*">
+				MP3                          =20
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+				B-=20
+			</td>
+		=09
+            <td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+		=09
+			<td width=3D"*" align=3D"center">
+				<b>                                                                    =
+                                                                           =
+                                                                           =
+                                    </b>
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+            </td>
+		</tr>
+            =20
+						<tr class=3D"odd">
+							<td width=3D"*">&nbsp;</td>
+							<td width=3D"*">&nbsp;</td>
+							<td width=3D"*" colspan=3D"8">
+								<i>Satisfactory Progress</i>
+							</td>
+						</tr>
+					  =20
+               <tr class=3D"odd">
+				<td colspan=3D"10 %>" valign=3D"bottom" height=3D"1px">&nbsp;</td>=20
+				</tr>
+              =20
+	<tr class=3D"even">              =20
+		<td width=3D"*">&nbsp;</td>
+   =20
+			<td width=3D"*" nowrap=3D"" align=3D"left">
+			=09
+					<a href=3D"https://homelogic.nhvweb.net/homelogicxe/Marks.asp?frm=3DMa=
+rks&amp;cid=3D21966&amp;order=3D3#" title=3D"Expand Grade Details for Phys =
+Ed 9 - 2 - 01-02" onclick=3D"javascript:ExpandTaskGrades('22074','3');" cla=
+ss=3D"emaillink">
+				Phys Ed 9 - 2 - 01-02</a>
+			</td>				=09
+	=09
+			<td width=3D"*">
+				 Izzo                                              =20
+			</td>
+		    <td width=3D"*">
+				MP3                          =20
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+				A =20
+			</td>
+		=09
+            <td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+		=09
+			<td width=3D"*" align=3D"center">
+				<b>                                                                    =
+                                                                           =
+                                                                           =
+                                    </b>
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+            </td>
+		</tr>
+            =20
+						<tr class=3D"even">
+							<td width=3D"*">&nbsp;</td>
+							<td width=3D"*">&nbsp;</td>
+							<td width=3D"*" colspan=3D"8">
+								<i>Satisfactory Progress</i>
+							</td>
+						</tr>
+					  =20
+               <tr class=3D"even">
+				<td colspan=3D"10 %>" valign=3D"bottom" height=3D"1px">&nbsp;</td>=20
+				</tr>
+              =20
+	<tr class=3D"odd">              =20
+		<td width=3D"*">&nbsp;</td>
+   =20
+			<td width=3D"*" nowrap=3D"" align=3D"left">
+			=09
+					<a href=3D"https://homelogic.nhvweb.net/homelogicxe/Marks.asp?frm=3DMa=
+rks&amp;cid=3D21966&amp;order=3D3#" title=3D"Expand Grade Details for U.S.H=
+istory I Hwt - 17-18" onclick=3D"javascript:ExpandTaskGrades('21865','3');"=
+ class=3D"emaillink">
+				U.S.History I Hwt - 17-18</a>
+			</td>				=09
+	=09
+			<td width=3D"*">
+				 Kieffer                                           =20
+			</td>
+		    <td width=3D"*">
+				MP3                          =20
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+				A-=20
+			</td>
+		=09
+            <td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+		=09
+			<td width=3D"*" align=3D"center">
+				<b>                                                                    =
+                                                                           =
+                                                                           =
+                                    </b>
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+            </td>
+		</tr>
+            =20
+						<tr class=3D"odd">
+							<td width=3D"*">&nbsp;</td>
+							<td width=3D"*">&nbsp;</td>
+							<td width=3D"*" colspan=3D"8">
+								<i>Satisfactory Progress</i>
+							</td>
+						</tr>
+					  =20
+               <tr class=3D"odd">
+				<td colspan=3D"10 %>" valign=3D"bottom" height=3D"1px">&nbsp;</td>=20
+				</tr>
+              =20
+	<tr class=3D"even">              =20
+		<td width=3D"*">&nbsp;</td>
+   =20
+			<td width=3D"*" nowrap=3D"" align=3D"left">
+			=09
+					<a href=3D"https://homelogic.nhvweb.net/homelogicxe/Marks.asp?frm=3DMa=
+rks&amp;cid=3D21966&amp;order=3D3#" title=3D"Expand Grade Details for Adv  =
+Academic Literacy - 1 - 13-14" onclick=3D"javascript:ExpandTaskGrades('2190=
+5','3');" class=3D"emaillink">
+				Adv  Academic Literacy - 1 - 13-14</a>
+			</td>				=09
+	=09
+			<td width=3D"*">
+				Ms. Cavo                                           =20
+			</td>
+		    <td width=3D"*">
+				MP2                          =20
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+				B =20
+			</td>
+		=09
+            <td width=3D"*" align=3D"center">
+				A
+			</td>
+			<td width=3D"*" align=3D"center">
+				B+
+			</td>
+		=09
+			<td width=3D"*" align=3D"center">
+				<b>                                                                    =
+                                                                           =
+                                                                           =
+                                    </b>
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+            </td>
+		</tr>
+            =20
+               <tr class=3D"even">
+				<td colspan=3D"10 %>" valign=3D"bottom" height=3D"1px">&nbsp;</td>=20
+				</tr>
+              =20
+	<tr class=3D"odd">              =20
+		<td width=3D"*">&nbsp;</td>
+   =20
+			<td width=3D"*" nowrap=3D"" align=3D"left">
+			=09
+					<a href=3D"https://homelogic.nhvweb.net/homelogicxe/Marks.asp?frm=3DMa=
+rks&amp;cid=3D21966&amp;order=3D3#" title=3D"Expand Grade Details for Algeb=
+ra I Cp - 03-04" onclick=3D"javascript:ExpandTaskGrades('21673','3');" clas=
+s=3D"emaillink">
+				Algebra I Cp - 03-04</a>
+			</td>				=09
+	=09
+			<td width=3D"*">
+				Mr. Maurella                                       =20
+			</td>
+		    <td width=3D"*">
+				MP2                          =20
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+				A-=20
+			</td>
+		=09
+            <td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+		=09
+			<td width=3D"*" align=3D"center">
+				<b>                                                                    =
+                                                                           =
+                                                                           =
+                                    </b>
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+            </td>
+		</tr>
+            =20
+               <tr class=3D"odd">
+				<td colspan=3D"10 %>" valign=3D"bottom" height=3D"1px">&nbsp;</td>=20
+				</tr>
+              =20
+	<tr class=3D"even">              =20
+		<td width=3D"*">&nbsp;</td>
+   =20
+			<td width=3D"*" nowrap=3D"" align=3D"left">
+			=09
+					<a href=3D"https://homelogic.nhvweb.net/homelogicxe/Marks.asp?frm=3DMa=
+rks&amp;cid=3D21966&amp;order=3D3#" title=3D"Expand Grade Details for Engli=
+sh I H/Wt - 05-06" onclick=3D"javascript:ExpandTaskGrades('21966','3');" cl=
+ass=3D"emaillink">
+				English I H/Wt - 05-06</a>
+			</td>				=09
+	=09
+			<td width=3D"*">
+				 Meo                                               =20
+			</td>
+		    <td width=3D"*">
+				MP2                          =20
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+				B-=20
+			</td>
+		=09
+            <td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+		=09
+			<td width=3D"*" align=3D"center">
+				<b>                                                                    =
+                                                                           =
+                                                                           =
+                                    </b>
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+            </td>
+		</tr>
+            =20
+               <tr class=3D"even">
+				<td colspan=3D"10 %>" valign=3D"bottom" height=3D"1px">&nbsp;</td>=20
+				</tr>
+              =20
+	<tr class=3D"odd">              =20
+		<td width=3D"*">&nbsp;</td>
+   =20
+			<td width=3D"*" nowrap=3D"" align=3D"left">
+			=09
+					<a href=3D"https://homelogic.nhvweb.net/homelogicxe/Marks.asp?frm=3DMa=
+rks&amp;cid=3D21966&amp;order=3D3#" title=3D"Expand Grade Details for Healt=
+h 9 - 1 - 01-02" onclick=3D"javascript:ExpandTaskGrades('22025','3');" clas=
+s=3D"emaillink">
+				Health 9 - 1 - 01-02</a>
+			</td>				=09
+	=09
+			<td width=3D"*">
+				 Izzo                                              =20
+			</td>
+		    <td width=3D"*">
+				MP2                          =20
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+				B+=20
+			</td>
+		=09
+            <td width=3D"*" align=3D"center">
+				B
+			</td>
+			<td width=3D"*" align=3D"center">
+				B
+			</td>
+		=09
+			<td width=3D"*" align=3D"center">
+				<b>                                                                    =
+                                                                           =
+                                                                           =
+                                    </b>
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+            </td>
+		</tr>
+            =20
+						<tr class=3D"odd">
+							<td width=3D"*">&nbsp;</td>
+							<td width=3D"*">&nbsp;</td>
+							<td width=3D"*" colspan=3D"8">
+								<i>Satisfactory Progress</i>
+							</td>
+						</tr>
+					  =20
+               <tr class=3D"odd">
+				<td colspan=3D"10 %>" valign=3D"bottom" height=3D"1px">&nbsp;</td>=20
+				</tr>
+              =20
+	<tr class=3D"even">              =20
+		<td width=3D"*">&nbsp;</td>
+   =20
+			<td width=3D"*" nowrap=3D"" align=3D"left">
+			=09
+					<a href=3D"https://homelogic.nhvweb.net/homelogicxe/Marks.asp?frm=3DMa=
+rks&amp;cid=3D21966&amp;order=3D3#" title=3D"Expand Grade Details for Intr =
+To Java Cp - 1 - 11-12" onclick=3D"javascript:ExpandTaskGrades('21490','3')=
+;" class=3D"emaillink">
+				Intr To Java Cp - 1 - 11-12</a>
+			</td>				=09
+	=09
+			<td width=3D"*">
+				Ms. Parziale                                       =20
+			</td>
+		    <td width=3D"*">
+				MP2                          =20
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+				B-=20
+			</td>
+		=09
+            <td width=3D"*" align=3D"center">
+				B
+			</td>
+			<td width=3D"*" align=3D"center">
+				B
+			</td>
+		=09
+			<td width=3D"*" align=3D"center">
+				<b>                                                                    =
+                                                                           =
+                                                                           =
+                                    </b>
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+            </td>
+		</tr>
+            =20
+               <tr class=3D"even">
+				<td colspan=3D"10 %>" valign=3D"bottom" height=3D"1px">&nbsp;</td>=20
+				</tr>
+              =20
+	<tr class=3D"odd">              =20
+		<td width=3D"*">&nbsp;</td>
+   =20
+			<td width=3D"*" nowrap=3D"" align=3D"left">
+			=09
+					<a href=3D"https://homelogic.nhvweb.net/homelogicxe/Marks.asp?frm=3DMa=
+rks&amp;cid=3D21966&amp;order=3D3#" title=3D"Expand Grade Details for Lab P=
+hysics Cp - 07-08" onclick=3D"javascript:ExpandTaskGrades('21657','3');" cl=
+ass=3D"emaillink">
+				Lab Physics Cp - 07-08</a>
+			</td>				=09
+	=09
+			<td width=3D"*">
+				 Collins                                           =20
+			</td>
+		    <td width=3D"*">
+				MP2                          =20
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+				B+=20
+			</td>
+		=09
+            <td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+		=09
+			<td width=3D"*" align=3D"center">
+				<b>                                                                    =
+                                                                           =
+                                                                           =
+                                    </b>
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+            </td>
+		</tr>
+            =20
+               <tr class=3D"odd">
+				<td colspan=3D"10 %>" valign=3D"bottom" height=3D"1px">&nbsp;</td>=20
+				</tr>
+              =20
+	<tr class=3D"even">              =20
+		<td width=3D"*">&nbsp;</td>
+   =20
+			<td width=3D"*" nowrap=3D"" align=3D"left">
+			=09
+					<a href=3D"https://homelogic.nhvweb.net/homelogicxe/Marks.asp?frm=3DMa=
+rks&amp;cid=3D21966&amp;order=3D3#" title=3D"Expand Grade Details for Latin=
+ I CP - 15-16" onclick=3D"javascript:ExpandTaskGrades('21465','3');" class=
+=3D"emaillink">
+				Latin I CP - 15-16</a>
+			</td>				=09
+	=09
+			<td width=3D"*">
+				 Mullay                                            =20
+			</td>
+		    <td width=3D"*">
+				MP2                          =20
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+				C+=20
+			</td>
+		=09
+            <td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+		=09
+			<td width=3D"*" align=3D"center">
+				<b>                                                                    =
+                                                                           =
+                                                                           =
+                                    </b>
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+            </td>
+		</tr>
+            =20
+						<tr class=3D"even">
+							<td width=3D"*">&nbsp;</td>
+							<td width=3D"*">&nbsp;</td>
+							<td width=3D"*" colspan=3D"8">
+								<i>Satisfactory Progress</i>
+							</td>
+						</tr>
+					  =20
+               <tr class=3D"even">
+				<td colspan=3D"10 %>" valign=3D"bottom" height=3D"1px">&nbsp;</td>=20
+				</tr>
+              =20
+	<tr class=3D"odd">              =20
+		<td width=3D"*">&nbsp;</td>
+   =20
+			<td width=3D"*" nowrap=3D"" align=3D"left">
+			=09
+					<a href=3D"https://homelogic.nhvweb.net/homelogicxe/Marks.asp?frm=3DMa=
+rks&amp;cid=3D21966&amp;order=3D3#" title=3D"Expand Grade Details for NILun=
+ch 2 Mods S1 - 1 - 09-10" onclick=3D"javascript:ExpandTaskGrades('21239','3=
+');" class=3D"emaillink">
+				NILunch 2 Mods S1 - 1 - 09-10</a>
+			</td>				=09
+	=09
+			<td width=3D"*">
+				 Staff                                             =20
+			</td>
+		    <td width=3D"*">
+				MP2                          =20
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+				  =20
+			</td>
+		=09
+            <td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+		=09
+			<td width=3D"*" align=3D"center">
+				<b>                                                                    =
+                                                                           =
+                                                                           =
+                                    </b>
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+            </td>
+		</tr>
+            =20
+               <tr class=3D"odd">
+				<td colspan=3D"10 %>" valign=3D"bottom" height=3D"1px">&nbsp;</td>=20
+				</tr>
+              =20
+	<tr class=3D"even">              =20
+		<td width=3D"*">&nbsp;</td>
+   =20
+			<td width=3D"*" nowrap=3D"" align=3D"left">
+			=09
+					<a href=3D"https://homelogic.nhvweb.net/homelogicxe/Marks.asp?frm=3DMa=
+rks&amp;cid=3D21966&amp;order=3D3#" title=3D"Expand Grade Details for U.S.H=
+istory I Hwt - 17-18" onclick=3D"javascript:ExpandTaskGrades('21865','3');"=
+ class=3D"emaillink">
+				U.S.History I Hwt - 17-18</a>
+			</td>				=09
+	=09
+			<td width=3D"*">
+				 Kieffer                                           =20
+			</td>
+		    <td width=3D"*">
+				MP2                          =20
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+				B =20
+			</td>
+		=09
+            <td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+		=09
+			<td width=3D"*" align=3D"center">
+				<b>                                                                    =
+                                                                           =
+                                                                           =
+                                    </b>
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+            </td>
+		</tr>
+            =20
+						<tr class=3D"even">
+							<td width=3D"*">&nbsp;</td>
+							<td width=3D"*">&nbsp;</td>
+							<td width=3D"*" colspan=3D"8">
+								<i>Satisfactory Progress</i>
+							</td>
+						</tr>
+					  =20
+               <tr class=3D"even">
+				<td colspan=3D"10 %>" valign=3D"bottom" height=3D"1px">&nbsp;</td>=20
+				</tr>
+              =20
+	<tr class=3D"odd">              =20
+		<td width=3D"*">&nbsp;</td>
+   =20
+			<td width=3D"*" nowrap=3D"" align=3D"left">
+			=09
+					<a href=3D"https://homelogic.nhvweb.net/homelogicxe/Marks.asp?frm=3DMa=
+rks&amp;cid=3D21966&amp;order=3D3#" title=3D"Expand Grade Details for Adv  =
+Academic Literacy - 1 - 13-14" onclick=3D"javascript:ExpandTaskGrades('2190=
+5','3');" class=3D"emaillink">
+				Adv  Academic Literacy - 1 - 13-14</a>
+			</td>				=09
+	=09
+			<td width=3D"*">
+				Ms. Cavo                                           =20
+			</td>
+		    <td width=3D"*">
+				MP1                          =20
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+				B =20
+			</td>
+		=09
+            <td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+		=09
+			<td width=3D"*" align=3D"center">
+				<b>                                                                    =
+                                                                           =
+                                                                           =
+                                    </b>
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+            </td>
+		</tr>
+            =20
+               <tr class=3D"odd">
+				<td colspan=3D"10 %>" valign=3D"bottom" height=3D"1px">&nbsp;</td>=20
+				</tr>
+              =20
+	<tr class=3D"even">              =20
+		<td width=3D"*">&nbsp;</td>
+   =20
+			<td width=3D"*" nowrap=3D"" align=3D"left">
+			=09
+					<a href=3D"https://homelogic.nhvweb.net/homelogicxe/Marks.asp?frm=3DMa=
+rks&amp;cid=3D21966&amp;order=3D3#" title=3D"Expand Grade Details for Algeb=
+ra I Cp - 03-04" onclick=3D"javascript:ExpandTaskGrades('21673','3');" clas=
+s=3D"emaillink">
+				Algebra I Cp - 03-04</a>
+			</td>				=09
+	=09
+			<td width=3D"*">
+				Mr. Maurella                                       =20
+			</td>
+		    <td width=3D"*">
+				MP1                          =20
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+				B+=20
+			</td>
+		=09
+            <td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+		=09
+			<td width=3D"*" align=3D"center">
+				<b>                                                                    =
+                                                                           =
+                                                                           =
+                                    </b>
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+            </td>
+		</tr>
+            =20
+               <tr class=3D"even">
+				<td colspan=3D"10 %>" valign=3D"bottom" height=3D"1px">&nbsp;</td>=20
+				</tr>
+              =20
+	<tr class=3D"odd">              =20
+		<td width=3D"*">&nbsp;</td>
+   =20
+			<td width=3D"*" nowrap=3D"" align=3D"left">
+			=09
+					<a href=3D"https://homelogic.nhvweb.net/homelogicxe/Marks.asp?frm=3DMa=
+rks&amp;cid=3D21966&amp;order=3D3#" title=3D"Expand Grade Details for Engli=
+sh I H/Wt - 05-06" onclick=3D"javascript:ExpandTaskGrades('21966','3');" cl=
+ass=3D"emaillink">
+				English I H/Wt - 05-06</a>
+			</td>				=09
+	=09
+			<td width=3D"*">
+				 Meo                                               =20
+			</td>
+		    <td width=3D"*">
+				MP1                          =20
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+				B+=20
+			</td>
+		=09
+            <td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+		=09
+			<td width=3D"*" align=3D"center">
+				<b>                                                                    =
+                                                                           =
+                                                                           =
+                                    </b>
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+            </td>
+		</tr>
+            =20
+               <tr class=3D"odd">
+				<td colspan=3D"10 %>" valign=3D"bottom" height=3D"1px">&nbsp;</td>=20
+				</tr>
+              =20
+	<tr class=3D"even">              =20
+		<td width=3D"*">&nbsp;</td>
+   =20
+			<td width=3D"*" nowrap=3D"" align=3D"left">
+			=09
+					<a href=3D"https://homelogic.nhvweb.net/homelogicxe/Marks.asp?frm=3DMa=
+rks&amp;cid=3D21966&amp;order=3D3#" title=3D"Expand Grade Details for Healt=
+h 9 - 1 - 01-02" onclick=3D"javascript:ExpandTaskGrades('22025','3');" clas=
+s=3D"emaillink">
+				Health 9 - 1 - 01-02</a>
+			</td>				=09
+	=09
+			<td width=3D"*">
+				 Izzo                                              =20
+			</td>
+		    <td width=3D"*">
+				MP1                          =20
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+				B =20
+			</td>
+		=09
+            <td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+		=09
+			<td width=3D"*" align=3D"center">
+				<b>                                                                    =
+                                                                           =
+                                                                           =
+                                    </b>
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+            </td>
+		</tr>
+            =20
+						<tr class=3D"even">
+							<td width=3D"*">&nbsp;</td>
+							<td width=3D"*">&nbsp;</td>
+							<td width=3D"*" colspan=3D"8">
+								<i>Satisfactory Progress</i>
+							</td>
+						</tr>
+					  =20
+               <tr class=3D"even">
+				<td colspan=3D"10 %>" valign=3D"bottom" height=3D"1px">&nbsp;</td>=20
+				</tr>
+              =20
+	<tr class=3D"odd">              =20
+		<td width=3D"*">&nbsp;</td>
+   =20
+			<td width=3D"*" nowrap=3D"" align=3D"left">
+			=09
+					<a href=3D"https://homelogic.nhvweb.net/homelogicxe/Marks.asp?frm=3DMa=
+rks&amp;cid=3D21966&amp;order=3D3#" title=3D"Expand Grade Details for Intr =
+To Java Cp - 1 - 11-12" onclick=3D"javascript:ExpandTaskGrades('21490','3')=
+;" class=3D"emaillink">
+				Intr To Java Cp - 1 - 11-12</a>
+			</td>				=09
+	=09
+			<td width=3D"*">
+				Ms. Parziale                                       =20
+			</td>
+		    <td width=3D"*">
+				MP1                          =20
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+				B+=20
+			</td>
+		=09
+            <td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+		=09
+			<td width=3D"*" align=3D"center">
+				<b>                                                                    =
+                                                                           =
+                                                                           =
+                                    </b>
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+            </td>
+		</tr>
+            =20
+						<tr class=3D"odd">
+							<td width=3D"*">&nbsp;</td>
+							<td width=3D"*">&nbsp;</td>
+							<td width=3D"*" colspan=3D"8">
+								<i>Satisfactory Progress</i>
+							</td>
+						</tr>
+					  =20
+               <tr class=3D"odd">
+				<td colspan=3D"10 %>" valign=3D"bottom" height=3D"1px">&nbsp;</td>=20
+				</tr>
+              =20
+	<tr class=3D"even">              =20
+		<td width=3D"*">&nbsp;</td>
+   =20
+			<td width=3D"*" nowrap=3D"" align=3D"left">
+			=09
+					<a href=3D"https://homelogic.nhvweb.net/homelogicxe/Marks.asp?frm=3DMa=
+rks&amp;cid=3D21966&amp;order=3D3#" title=3D"Expand Grade Details for Lab P=
+hysics Cp - 07-08" onclick=3D"javascript:ExpandTaskGrades('21657','3');" cl=
+ass=3D"emaillink">
+				Lab Physics Cp - 07-08</a>
+			</td>				=09
+	=09
+			<td width=3D"*">
+				 Collins                                           =20
+			</td>
+		    <td width=3D"*">
+				MP1                          =20
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+				C+=20
+			</td>
+		=09
+            <td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+		=09
+			<td width=3D"*" align=3D"center">
+				<b>                                                                    =
+                                                                           =
+                                                                           =
+                                    </b>
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+            </td>
+		</tr>
+            =20
+               <tr class=3D"even">
+				<td colspan=3D"10 %>" valign=3D"bottom" height=3D"1px">&nbsp;</td>=20
+				</tr>
+              =20
+	<tr class=3D"odd">              =20
+		<td width=3D"*">&nbsp;</td>
+   =20
+			<td width=3D"*" nowrap=3D"" align=3D"left">
+			=09
+					<a href=3D"https://homelogic.nhvweb.net/homelogicxe/Marks.asp?frm=3DMa=
+rks&amp;cid=3D21966&amp;order=3D3#" title=3D"Expand Grade Details for Latin=
+ I CP - 15-16" onclick=3D"javascript:ExpandTaskGrades('21465','3');" class=
+=3D"emaillink">
+				Latin I CP - 15-16</a>
+			</td>				=09
+	=09
+			<td width=3D"*">
+				 Mullay                                            =20
+			</td>
+		    <td width=3D"*">
+				MP1                          =20
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+				C+=20
+			</td>
+		=09
+            <td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+		=09
+			<td width=3D"*" align=3D"center">
+				<b>                                                                    =
+                                                                           =
+                                                                           =
+                                    </b>
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+            </td>
+		</tr>
+            =20
+						<tr class=3D"odd">
+							<td width=3D"*">&nbsp;</td>
+							<td width=3D"*">&nbsp;</td>
+							<td width=3D"*" colspan=3D"8">
+								<i>Satisfactory Progress</i>
+							</td>
+						</tr>
+					  =20
+               <tr class=3D"odd">
+				<td colspan=3D"10 %>" valign=3D"bottom" height=3D"1px">&nbsp;</td>=20
+				</tr>
+              =20
+	<tr class=3D"even">              =20
+		<td width=3D"*">&nbsp;</td>
+   =20
+			<td width=3D"*" nowrap=3D"" align=3D"left">
+			=09
+					<a href=3D"https://homelogic.nhvweb.net/homelogicxe/Marks.asp?frm=3DMa=
+rks&amp;cid=3D21966&amp;order=3D3#" title=3D"Expand Grade Details for U.S.H=
+istory I Hwt - 17-18" onclick=3D"javascript:ExpandTaskGrades('21865','3');"=
+ class=3D"emaillink">
+				U.S.History I Hwt - 17-18</a>
+			</td>				=09
+	=09
+			<td width=3D"*">
+				 Kieffer                                           =20
+			</td>
+		    <td width=3D"*">
+				MP1                          =20
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+				C+=20
+			</td>
+		=09
+            <td width=3D"*" align=3D"center">
+			=09
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+			</td>
+		=09
+			<td width=3D"*" align=3D"center">
+				<b>                                                                    =
+                                                                           =
+                                                                           =
+                                    </b>
+			</td>
+			<td width=3D"*" align=3D"center">
+			=09
+            </td>
+		</tr>
+            =20
+						<tr class=3D"even">
+							<td width=3D"*">&nbsp;</td>
+							<td width=3D"*">&nbsp;</td>
+							<td width=3D"*" colspan=3D"8">
+								<i>Satisfactory Progress</i>
+							</td>
+						</tr>
+					  =20
+               <tr class=3D"even">
+				<td colspan=3D"10 %>" valign=3D"bottom" height=3D"1px">&nbsp;</td>=20
+				</tr>
+              =20
+     </tbody></table>  =20
+
+    =20
+=09
+	<table width=3D"95%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" alig=
+n=3D"center" valign=3D"top" class=3D"headerprintonly">
+		<tbody><tr valign=3D"top">
+			<td width=3D"100%" align=3D"left">
+				<b>Note: If a class listed has an asterisk (*), then it is a module of =
+a course</b>
+			</td>
+		</tr>
+	</tbody></table>
+=09
+=09
+
+	<title>
+		Task Grades for Jake Sylvestre
+	</title>
+		=09
+=09
+	<style>
+	=09
+TD.menuselected
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+	COLOR: #000000;
+    FONT-FAMILY: verdana, arial, helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+TD.menu
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 10px;
+	COLOR: #000000;
+    FONT-FAMILY: verdana, arial, helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+
+TD.courserequestselected
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+	COLOR: #000000;
+    FONT-FAMILY: verdana, arial, helvetica, sans-serif;
+    TEXT-DECORATION: none;
+    BACKGROUND-COLOR:#b4c4f1;
+}
+TD.courserequest
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 10px;
+	COLOR: #000000;
+    FONT-FAMILY: verdana, arial, helvetica, sans-serif;
+    TEXT-DECORATION: none;
+    BACKGROUND-COLOR:#8da5eb;
+}
+
+TD.message
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 12px;
+    FONT-FAMILY: verdana, arial, helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+
+TD
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 10px;
+    FONT-FAMILY: verdana, arial, helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+
+TR.header
+{
+    BACKGROUND-COLOR:#536a9c;
+    COLOR:#FFFFFF;
+}
+TR.caption
+{
+    BACKGROUND-COLOR:#8da5eb;
+}
+TR.caption2
+{
+    BACKGROUND-COLOR:#b4c4f1
+}
+TR.odd
+{
+	BACKGROUND-COLOR:#E1EAFF
+}
+
+TR.even
+{
+     BACKGROUND-COLOR:#C3D6FF
+}
+
+
+
+SELECT
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 10px;
+    FONT-FAMILY: Verdana, Arial, helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+TEXTAREA
+{
+	FONT-WEIGHT: normal;
+    FONT-SIZE: 10px;
+    FONT-FAMILY: Verdana, Arial, helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+INPUT
+{
+	FONT-WEIGHT: normal;
+    FONT-SIZE: 10px;
+    FONT-FAMILY: Verdana, Arial, helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+
+A:link {color:#0000FF; text-decoration:none}
+A:Visited {color:#0000FF; text-decoration:none}
+A:Hover {color:#0000FF; text-decoration:underline}
+
+A.menu:link {color:black; text-decoration:none}
+A.menu:Visited {color:black; text-decoration:none}
+A.menu:Hover {color:black; text-decoration:underline}
+
+A.plain:link {color: black;text-decoration: none}
+A.plain:visited {color: black;text-decoration: none}
+A.plain:active {color: black;text-decoration: none}
+A.plain:hover {color: black;text-decoration: none}
+
+@media print {
+	.printbutton {
+		display:none;
+	}
+=09
+	.HeaderPrintOnly {
+		visibility:visible
+	}
+=09
+	.HeaderScreenOnly {
+		visibility:hidden;display:none
+	 }
+	=20
+	 a.emaillink {
+		FONT-WEIGHT: normal;
+		COLOR: black;
+		FONT-SIZE: 10px;
+		FONT-FAMILY: Verdana, Arial, helvetica, sans-serif;
+		TEXT-DECORATION: none
+	}
+}
+
+@media screen {
+	 .HeaderPrintOnly {
+		visibility:hidden;display:none
+	 }
+	=20
+	 .HeaderScreenOnly {
+		visibility:visible
+	}
+=09
+	 a.emaillink {
+		FONT-WEIGHT: bold;
+		COLOR: #536A9C;
+		FONT-SIZE: 10px;
+		FONT-FAMILY: Verdana, Arial, helvetica, sans-serif;
+		TEXT-DECORATION: none
+	}=09
+}
+	</style>
+
+
+
+
+<table width=3D"95%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=
+=3D"center" valign=3D"middle" class=3D"headerprintonly">
+	<tbody><tr>=20
+		<td align=3D"center" colspan=3D"2" width=3D"80%"><font size=3D"3"><b>
+			North Hunterdon High School                      =20
+		</b></font></td>
+		<!--<td rowspan=3D"3" align=3D"center"><font size=3D"2">
+			Jun 3, 2014
+		</td>-->
+     </tr>
+     <tr>=20
+		<td align=3D"center" colspan=3D"2"><font size=3D"2">
+		=09
+		</font></td>
+     </tr>
+     <tr>=20
+		<td align=3D"center" colspan=3D"2"><font size=3D"2">
+			(908) 735-5191
+		</font></td>
+     </tr>
+     <tr>=20
+		<td align=3D"center" colspan=3D"32">
+			<br>&nbsp;
+			<!--<hr>-->
+		</td>
+     </tr>
+     </tbody></table>
+	<table width=3D"95%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" alig=
+n=3D"center" valign=3D"middle" class=3D"headerprintonly">
+     <tbody><tr>=20
+	=09
+			<td align=3D"left" width=3D"40%"><font size=3D"2"><b>
+				 Sylvestre, Jake (20170594)
+			</b></font></td>
+			<td align=3D"left" width=3D"30%"><font size=3D"2">
+				<b>Grade: </b>09
+			</font></td>
+	=09
+			<td align=3D"left" width=3D"30%"><font size=3D"2">
+				<b>Counselor:</b> Jordan
+			</font></td>
+	=09
+     </tr>
+=09
+		 <tr>=20
+		<td align=3D"center" colspan=3D"32">
+			<br>&nbsp;
+		</td>
+     </tr>	=09
+</tbody></table>
+
+
+	<table width=3D"95%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" alig=
+n=3D"center" class=3D"headerprintonly">
+		<tbody><tr class=3D"caption">=20
+				<td width=3D"100%">=20
+					<div align=3D"center">
+						<font size=3D"2">
+							<b>
+								Grade Details for English I H/Wt (05-06)                           =
+  =20
+							</b>
+						</font>
+				</div></td>
+	        </tr>    =20
+		</tbody></table>=09
+
+=09
+	<br><table width=3D"90%" align=3D"center">
+=09
+	</table><table width=3D"90%" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0" align=3D"center" class=3D"HeaderScreenOnly">
+		 <tbody><tr bgcolor=3D"#536A9C">=20
+			<td width=3D"9" align=3D"right" valign=3D"top">=20
+				<img src=3D"https://homelogic.nhvweb.net/homelogicxe/images/corner1.gif=
+" width=3D"9" height=3D"20" border=3D"0" class=3D"printbutton"></td>=09
+			<td align=3D"center">
+				<a name=3D"Details" href=3D"https://homelogic.nhvweb.net/homelogicxe/Ma=
+rks.asp?frm=3DMarks&amp;cid=3D21966&amp;order=3D3#"><font size=3D"2" color=
+=3D"#FFFFFF">
+					<b>
+						Grade Details For English I H/Wt (05-06)                             =
+  =20
+					</b>
+				</font></a>
+			</td>
+            <td align=3D"right">
+                <font color=3D"#FFFFFF">
+                    Meo                                              =20
+                </font>
+             </td>
+			<td width=3D"9" align=3D"left">
+				<img src=3D"https://homelogic.nhvweb.net/homelogicxe/images/corner2.gif=
+" width=3D"9" height=3D"20" class=3D"printbutton"></td>
+		</tr>
+	</tbody></table>
+	<table width=3D"90%" border=3D"0" cellpadding=3D"2" cellspacing=3D"0" alig=
+n=3D"center">
+
+<tbody><tr class=3D"caption">
+		<td width=3D"20%">
+			Caption
+		</td>
+		<td width=3D"10%">
+			Task Date
+		</td>
+	=09
+			<td width=3D"10%">
+				Weight
+			</td>
+	=09
+			<td width=3D"10%">
+				Points Earned
+			</td>
+			<td width=3D"10%">
+				Out Of
+			</td>
+	=09
+		<td width=3D"10%">
+			Percent=20
+		</td>
+	=09
+	=09
+	</tr>
+<tr></tr>
+				<tr class=3D"caption2">
+					<td width=3D"20%"><b>
+						<a href=3D"https://homelogic.nhvweb.net/homelogicxe/Marks.asp?frm=3DM=
+arks&amp;cid=3D21966&amp;order=3D3#" onclick=3D"javascript:ExpandTaskGrades=
+Details('21966','1','3','Marks');">
+							MP4 (Sem2)
+					=09
+					=09
+							&nbsp;&#8659;
+					=09
+					=09
+						</a></b><a href=3D"https://homelogic.nhvweb.net/homelogicxe/Marks.asp=
+?frm=3DMarks&amp;cid=3D21966&amp;order=3D3#" onclick=3D"javascript:ExpandTa=
+skGradesDetails('21966','1','3','Marks');">
+						</a>
+					</td><td width=3D"10%">
+						&nbsp;
+					</td>
+				=09
+						<td width=3D"10%"><b>
+							1</b>
+						</td>
+				=09
+						<td width=3D"10%">
+							&nbsp;
+						</td>
+						<td width=3D"10%">
+							&nbsp;
+						</td>
+				=09
+					<td width=3D"10%" nowrap=3D""><b>
+					&nbsp;
+			=09
+			</b></td>=09
+		=09
+				</tr><tr class=3D"even">
+					<td width=3D"20%">
+						&nbsp;&nbsp;All Units 4
+					</td>
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+				=09
+						<td width=3D"10%">
+							1
+						</td>
+				=09
+						<td width=3D"10%">
+							&nbsp;
+						</td>
+						<td width=3D"10%">
+							&nbsp;
+						</td>
+				=09
+					<td width=3D"10%">
+						 (B-)
+					</td>
+				=09
+				</tr>
+			=09
+			<tr class=3D"odd">
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;
+					Class Work
+				</td>
+				<td width=3D"10%">
+					&nbsp;
+				</td>
+			=09
+					<td width=3D"10%">
+						15
+					</td>
+			=09
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+		=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						GE Ch. 40-47 Graded Discussion
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 May&nbsp;9, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						2
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						90.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A-)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Victorian Era Project
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Apr&nbsp;17, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						2
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						100.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						GE St Gd 1
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Apr&nbsp;14, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						100.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+			<tr class=3D"odd">
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;
+					Homework
+				</td>
+				<td width=3D"10%">
+					&nbsp;
+				</td>
+			=09
+					<td width=3D"10%">
+						15
+					</td>
+			=09
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (F)
+				</td>
+			=09
+				</tr>
+		=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Voc 14 ex [A]
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Apr&nbsp;23, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						0.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (F-0)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Voc 13 ex
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Apr&nbsp;10, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						100.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+			<tr class=3D"odd">
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;
+					Quizzes
+				</td>
+				<td width=3D"10%">
+					&nbsp;
+				</td>
+			=09
+					<td width=3D"10%">
+						20
+					</td>
+			=09
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (B)
+				</td>
+			=09
+				</tr>
+		=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						GE Rdg QZ Ch. 23-26
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Apr&nbsp;29, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						79.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (C+)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Voc 14 QZ [A]
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Apr&nbsp;24, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						82.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (B-)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Verbals QZ
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Apr&nbsp;14, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						82.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (B-)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Voc 13 QZ
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Apr&nbsp;11, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						98.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						GE Rdg QZ Ch. 9-12
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Apr&nbsp;7, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						87.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (B+)
+				</td>
+			=09
+				</tr>
+			=09
+			<tr class=3D"odd">
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;
+					Tests
+				</td>
+				<td width=3D"10%">
+					&nbsp;
+				</td>
+			=09
+					<td width=3D"10%">
+						25
+					</td>
+			=09
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (C)
+				</td>
+			=09
+				</tr>
+		=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						GE Stage 3 test
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 May&nbsp;19, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						77.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (C+)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						GE Stage 2 Test
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 May&nbsp;6, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						69.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (D+)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						GE STage 1 Test
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Apr&nbsp;17, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						&nbsp;
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					&nbsp;
+				</td>
+			=09
+				</tr>
+			=09
+			<tr class=3D"odd">
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;
+					Writing Assignments
+				</td>
+				<td width=3D"10%">
+					&nbsp;
+				</td>
+			=09
+					<td width=3D"10%">
+						25
+					</td>
+			=09
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A-)
+				</td>
+			=09
+				</tr>
+		=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Vacation essay revision
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 May&nbsp;19, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						91.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A-)
+				</td>
+			=09
+				</tr>
+			=09
+			<tr class=3D"odd">
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;
+					Finals
+				</td>
+				<td width=3D"10%">
+					&nbsp;
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>
+			=09
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					&nbsp;
+				</td>
+			=09
+				</tr>
+		=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Final Exam
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Jun&nbsp;2, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						10
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						&nbsp;
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					&nbsp;
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Q2
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Apr&nbsp;3, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						3.33
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						78.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (C+)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Q3
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Apr&nbsp;3, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						3.33
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						85.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (B)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Q1
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Oct&nbsp;30, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						3.34
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						88.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (B+)
+				</td>
+			=09
+				</tr>
+			=09
+				<tr class=3D"caption2">
+					<td width=3D"20%"><b>
+						<a href=3D"https://homelogic.nhvweb.net/homelogicxe/Marks.asp?frm=3DM=
+arks&amp;cid=3D21966&amp;order=3D3#" onclick=3D"javascript:ExpandTaskGrades=
+Details('21966','1','3','Marks');">
+							MP3 (Sem2)
+					=09
+					=09
+							&nbsp;&#8659;
+					=09
+					=09
+						</a></b><a href=3D"https://homelogic.nhvweb.net/homelogicxe/Marks.asp=
+?frm=3DMarks&amp;cid=3D21966&amp;order=3D3#" onclick=3D"javascript:ExpandTa=
+skGradesDetails('21966','1','3','Marks');">
+						</a>
+					</td><td width=3D"10%">
+						&nbsp;
+					</td>
+				=09
+						<td width=3D"10%"><b>
+							1</b>
+						</td>
+				=09
+						<td width=3D"10%">
+							&nbsp;
+						</td>
+						<td width=3D"10%">
+							&nbsp;
+						</td>
+				=09
+					<td width=3D"10%" nowrap=3D""><b>
+					&nbsp;
+			=09
+			</b></td>=09
+		=09
+					</tr><tr>
+						<td colspan=3D"6">
+					</td></tr>
+				<tr class=3D"even">
+					<td width=3D"20%">
+						&nbsp;&nbsp;All Units 3
+					</td>
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+				=09
+						<td width=3D"10%">
+							1
+						</td>
+				=09
+						<td width=3D"10%">
+							&nbsp;
+						</td>
+						<td width=3D"10%">
+							&nbsp;
+						</td>
+				=09
+					<td width=3D"10%">
+						 (B-)
+					</td>
+				=09
+				</tr>
+			=09
+			<tr class=3D"odd">
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;
+					Class Work 3
+				</td>
+				<td width=3D"10%">
+					&nbsp;
+				</td>
+			=09
+					<td width=3D"10%">
+						15
+					</td>
+			=09
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+		=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						"Fragments of an Autobiography"
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Mar&nbsp;26, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						70.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (C-)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Group Dialog Vic Eng
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Mar&nbsp;26, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						100.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Victorian Character fact
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Mar&nbsp;13, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						100.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Ody video notes
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Mar&nbsp;10, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						100.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Ody St Gd 2
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Feb&nbsp;6, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						100.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+			<tr class=3D"odd">
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;
+					Homework
+				</td>
+				<td width=3D"10%">
+					&nbsp;
+				</td>
+			=09
+					<td width=3D"10%">
+						15
+					</td>
+			=09
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (B)
+				</td>
+			=09
+				</tr>
+		=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Victorian ebook notes
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Mar&nbsp;18, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						100.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Verbals review sheet
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Mar&nbsp;12, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						50.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (F)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Infinitives hw
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Mar&nbsp;6, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						100.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Pronouns hw
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Feb&nbsp;20, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						50.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (F)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						voc 12 ex
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Feb&nbsp;17, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						100.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Voc 11 ex
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Feb&nbsp;6, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						100.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Voc 10 ex
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Jan&nbsp;30, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						100.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+			<tr class=3D"odd">
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;
+					Quizzes 3
+				</td>
+				<td width=3D"10%">
+					&nbsp;
+				</td>
+			=09
+					<td width=3D"10%">
+						20
+					</td>
+			=09
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (B+)
+				</td>
+			=09
+				</tr>
+		=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Vic Eng Research Notes
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Mar&nbsp;26, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						90.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A-)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Bk 22 Rdg QZ
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Feb&nbsp;26, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						80.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (B-)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Voc 12 QZ
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Feb&nbsp;17, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						92.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A-)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Ody rdg QZ Bks 17-19
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Feb&nbsp;12, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						75.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (C)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Voc 11 QZ
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Feb&nbsp;12, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						98.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Voc 10 QZ
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Jan&nbsp;31, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						95.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+			<tr class=3D"odd">
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;
+					Tests 3
+				</td>
+				<td width=3D"10%">
+					&nbsp;
+				</td>
+			=09
+					<td width=3D"10%">
+						25
+					</td>
+			=09
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (D+)
+				</td>
+			=09
+				</tr>
+		=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Ody 3 Test
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Mar&nbsp;7, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						75.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (C)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Voc 10-12 test
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Feb&nbsp;27, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						74.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (C)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Pronouns test
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Feb&nbsp;24, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						49.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (F)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Ody 2 Test
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Feb&nbsp;7, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						72.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (C-)
+				</td>
+			=09
+				</tr>
+			=09
+			<tr class=3D"odd">
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;
+					Writing Assignments 3
+				</td>
+				<td width=3D"10%">
+					&nbsp;
+				</td>
+			=09
+					<td width=3D"10%">
+						25
+					</td>
+			=09
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (B)
+				</td>
+			=09
+				</tr>
+		=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Journals 11-15
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Apr&nbsp;1, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						2
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						100.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Ody Culture Essay
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Feb&nbsp;17, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						2
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						68.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (D+)
+				</td>
+			=09
+				</tr>
+			=09
+				<tr class=3D"caption2">
+					<td width=3D"20%"><b>
+						<a href=3D"https://homelogic.nhvweb.net/homelogicxe/Marks.asp?frm=3DM=
+arks&amp;cid=3D21966&amp;order=3D3#" onclick=3D"javascript:ExpandTaskGrades=
+Details('21966','1','3','Marks');">
+							MP2 (Sem1)
+					=09
+					=09
+							&nbsp;&#8659;
+					=09
+					=09
+						</a></b><a href=3D"https://homelogic.nhvweb.net/homelogicxe/Marks.asp=
+?frm=3DMarks&amp;cid=3D21966&amp;order=3D3#" onclick=3D"javascript:ExpandTa=
+skGradesDetails('21966','1','3','Marks');">
+						</a>
+					</td><td width=3D"10%">
+						&nbsp;
+					</td>
+				=09
+						<td width=3D"10%"><b>
+							1</b>
+						</td>
+				=09
+						<td width=3D"10%">
+							&nbsp;
+						</td>
+						<td width=3D"10%">
+							&nbsp;
+						</td>
+				=09
+					<td width=3D"10%" nowrap=3D""><b>
+					&nbsp;
+			=09
+			</b></td>=09
+		=09
+					</tr><tr>
+						<td colspan=3D"6">
+					</td></tr>
+				<tr class=3D"even">
+					<td width=3D"20%">
+						&nbsp;&nbsp;All Units 2
+					</td>
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+				=09
+						<td width=3D"10%">
+							1
+						</td>
+				=09
+						<td width=3D"10%">
+							&nbsp;
+						</td>
+						<td width=3D"10%">
+							&nbsp;
+						</td>
+				=09
+					<td width=3D"10%">
+						 (B-)
+					</td>
+				=09
+				</tr>
+			=09
+			<tr class=3D"odd">
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;
+					Class Work 2
+				</td>
+				<td width=3D"10%">
+					&nbsp;
+				</td>
+			=09
+					<td width=3D"10%">
+						15
+					</td>
+			=09
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A-)
+				</td>
+			=09
+				</tr>
+		=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Ody Allusion Poetry
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Jan&nbsp;23, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						85.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (B)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Ody 3-2-1 Activity
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Jan&nbsp;2, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						95.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Gettysburg Adrs Graded Discussion
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Nov&nbsp;11, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						95.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+			<tr class=3D"odd">
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;
+					Homework 2
+				</td>
+				<td width=3D"10%">
+					&nbsp;
+				</td>
+			=09
+					<td width=3D"10%">
+						15
+					</td>
+			=09
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+		=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Verbs review sheet
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Jan&nbsp;6, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						100.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Voc 7-9 ex
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Dec&nbsp;17, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						100.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Voc 9 ex [A]
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Dec&nbsp;12, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						100.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Voc 8 ex
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Dec&nbsp;5, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						100.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Verb voice wkst
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Dec&nbsp;4, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						100.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Voc 7 ex [A]
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Nov&nbsp;21, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						100.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Scarlet Ibis App Nts
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Nov&nbsp;11, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						80.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (B-)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Voc 4-6 ex
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Nov&nbsp;4, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						100.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+			<tr class=3D"odd">
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;
+					Quizzes 2
+				</td>
+				<td width=3D"10%">
+					&nbsp;
+				</td>
+			=09
+					<td width=3D"10%">
+						20
+					</td>
+			=09
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+		=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Ody 9-11 Rdg QZ
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Jan&nbsp;15, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						95.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Voc 9 QZ [A]
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Dec&nbsp;13, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						96.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Ody Bk 5 rdg QZ [A]
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Dec&nbsp;12, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						100.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Voc 8 QZ
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Dec&nbsp;6, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						98.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Voc 7 QZ [A]
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Nov&nbsp;22, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						93.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+			<tr class=3D"odd">
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;
+					Tests 2
+				</td>
+				<td width=3D"10%">
+					&nbsp;
+				</td>
+			=09
+					<td width=3D"10%">
+						25
+					</td>
+			=09
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (B-)
+				</td>
+			=09
+				</tr>
+		=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Ody Part 1 Test
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Jan&nbsp;10, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						80.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (B-)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Verbs Test
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Jan&nbsp;8, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						91.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A-)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Voc 7-9 Test
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Dec&nbsp;18, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						92.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A-)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Short Stories Unit Test
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Nov&nbsp;15, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						64.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (D)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Voc 4-6 Test
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Nov&nbsp;5, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						81.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (B-)
+				</td>
+			=09
+				</tr>
+			=09
+			<tr class=3D"odd">
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;
+					WRiting Assignments 2
+				</td>
+				<td width=3D"10%">
+					&nbsp;
+				</td>
+			=09
+					<td width=3D"10%">
+						25
+					</td>
+			=09
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (F)
+				</td>
+			=09
+				</tr>
+		=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Journals 6-10 [A]
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Jan&nbsp;21, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						2
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						95.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Ody essay outline
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Jan&nbsp;13, 2014
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						75.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (C)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Lit &amp; Art Essay [A]
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Dec&nbsp;2, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						3
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						70.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (C-)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Lit &amp; Art body par 1
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Nov&nbsp;25, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						75.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (C)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						L&amp;A Essay Body Par 1 outline
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Nov&nbsp;19, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						0.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (F-0)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Lit &amp; Art Essay Intro Par [A]
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Nov&nbsp;18, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						75.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (C)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						3 Thesis Statements
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Nov&nbsp;15, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						0.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (F-0)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Char par revision
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Nov&nbsp;1, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						0.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (F-0)
+				</td>
+			=09
+				</tr>
+			=09
+				<tr class=3D"caption2">
+					<td width=3D"20%"><b>
+						<a href=3D"https://homelogic.nhvweb.net/homelogicxe/Marks.asp?frm=3DM=
+arks&amp;cid=3D21966&amp;order=3D3#" onclick=3D"javascript:ExpandTaskGrades=
+Details('21966','1','3','Marks');">
+							MP1 (Sem1)
+					=09
+					=09
+							&nbsp;&#8659;
+					=09
+					=09
+						</a></b><a href=3D"https://homelogic.nhvweb.net/homelogicxe/Marks.asp=
+?frm=3DMarks&amp;cid=3D21966&amp;order=3D3#" onclick=3D"javascript:ExpandTa=
+skGradesDetails('21966','1','3','Marks');">
+						</a>
+					</td><td width=3D"10%">
+						&nbsp;
+					</td>
+				=09
+						<td width=3D"10%"><b>
+							1</b>
+						</td>
+				=09
+						<td width=3D"10%">
+							&nbsp;
+						</td>
+						<td width=3D"10%">
+							&nbsp;
+						</td>
+				=09
+					<td width=3D"10%" nowrap=3D""><b>
+					&nbsp;
+			=09
+			</b></td>=09
+		=09
+					</tr><tr>
+						<td colspan=3D"6">
+					</td></tr>
+				<tr class=3D"even">
+					<td width=3D"20%">
+						&nbsp;&nbsp;H I Mods 5-6
+					</td>
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+				=09
+						<td width=3D"10%">
+							1
+						</td>
+				=09
+						<td width=3D"10%">
+							&nbsp;
+						</td>
+						<td width=3D"10%">
+							&nbsp;
+						</td>
+				=09
+					<td width=3D"10%">
+						 (B+)
+					</td>
+				=09
+				</tr>
+			=09
+			<tr class=3D"odd">
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;
+					Class Work
+				</td>
+				<td width=3D"10%">
+					&nbsp;
+				</td>
+			=09
+					<td width=3D"10%">
+						15
+					</td>
+			=09
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A-)
+				</td>
+			=09
+				</tr>
+		=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Com Assmt Practice
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Oct&nbsp;28, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						85.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (B)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Plagiarism Assignment
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Oct&nbsp;17, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						90.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A-)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Nouns wkst
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Oct&nbsp;8, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						58.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (F)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Prep Check [A]
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Sep&nbsp;30, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						98.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Library Orientation
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Sep&nbsp;13, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						100.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						News Article Graded Discussion
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Sep&nbsp;12, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						100.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Class Materials
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Sep&nbsp;3, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						100.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Image Story
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Aug&nbsp;29, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						100.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+			<tr class=3D"odd">
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;
+					Homework
+				</td>
+				<td width=3D"10%">
+					&nbsp;
+				</td>
+			=09
+					<td width=3D"10%">
+						15
+					</td>
+			=09
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A-)
+				</td>
+			=09
+				</tr>
+		=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Voc 6 ex
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Oct&nbsp;24, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						100.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Voc 5 ex
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Oct&nbsp;17, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						100.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Voc 4 ex
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Oct&nbsp;10, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						100.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Nouns Obj Case wkst
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Oct&nbsp;3, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						65.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (D)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Voc 1-3 Review ex [A]
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Oct&nbsp;3, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						100.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Nouns wkst [A]
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Oct&nbsp;2, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						100.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						LIbrary Gold Assignment [A]
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Sep&nbsp;30, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						90.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A-)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Voc 3 ex
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Sep&nbsp;26, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						100.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Voc 2 ex [A]
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Sep&nbsp;19, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						100.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Vocab 1 exercises [A]
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Sep&nbsp;12, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						67.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (D+)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Object Paragraph Rough Draft [A]
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Sep&nbsp;11, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						100.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+			<tr class=3D"odd">
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;
+					Quizzes
+				</td>
+				<td width=3D"10%">
+					&nbsp;
+				</td>
+			=09
+					<td width=3D"10%">
+						20
+					</td>
+			=09
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (B-)
+				</td>
+			=09
+				</tr>
+		=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Voc 6 QZ
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Oct&nbsp;25, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						89.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (B+)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Voc 5 QZ
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Oct&nbsp;18, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						60.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (F)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Voc 4 QZ
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Oct&nbsp;11, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						81.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (B-)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Walter Mitty rdg QZ
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Oct&nbsp;1, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						90.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A-)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Voc 3 QZ
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Sep&nbsp;27, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						79.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (C+)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Voc 2 QZ
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Sep&nbsp;20, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						85.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (B)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Vocab 1 QZ [A]
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Sep&nbsp;16, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						94.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+			<tr class=3D"odd">
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;
+					Tests
+				</td>
+				<td width=3D"10%">
+					&nbsp;
+				</td>
+			=09
+					<td width=3D"10%">
+						25
+					</td>
+			=09
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A-)
+				</td>
+			=09
+				</tr>
+		=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Nouns Test
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Oct&nbsp;23, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						86.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (B)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Voc 1-3 Unit Test [A]
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Oct&nbsp;4, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						86.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (B)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Summer Reading Assignments [A]
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Sep&nbsp;12, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						100.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A)
+				</td>
+			=09
+				</tr>
+			=09
+			<tr class=3D"odd">
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;
+					Writing Assignments
+				</td>
+				<td width=3D"10%">
+					&nbsp;
+				</td>
+			=09
+					<td width=3D"10%">
+						25
+					</td>
+			=09
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+					<td width=3D"10%">
+						&nbsp;
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (B-)
+				</td>
+			=09
+				</tr>
+		=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Char Par Revision
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Nov&nbsp;1, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						&nbsp;
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					&nbsp;
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						5 Journals [A]
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Oct&nbsp;30, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						2
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						90.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (A-)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Char Sketch outline &amp; T.S.
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Oct&nbsp;24, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						65.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (D)
+				</td>
+			=09
+				</tr>
+			=09
+		=09
+			<tr>
+				<td width=3D"20%">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						Object Paragraph revision
+				=09
+				</td>=09
+				<td width=3D"10%">
+					 Sep&nbsp;16, 2013
+				</td>
+			=09
+					<td width=3D"10%">
+						1
+					</td>=09
+			=09
+					<td width=3D"10%" nowrap=3D"">
+						86.00
+					</td>
+					<td width=3D"10%">
+						100
+					</td>
+			=09
+				<td width=3D"10%" nowrap=3D"">
+					 (B)
+				</td>
+			=09
+				</tr>
+			=09
+</tbody></table>
+<table width=3D"95%" cellspacing=3D"0" class=3D"printbutton" align=3D"cente=
+r">
+	<tbody><tr class=3D"caption">
+		<td align=3D"center" valign=3D"middle">
+			<input class=3D"printbutton" type=3D"button" value=3D" Print " onclick=
+=3D"window.print();" id=3D"button2" name=3D"button2">
+		</td>
+	</tr>
+</tbody></table>
+
+
+
+
+
+
+
+
+=09
+
+
+
+</body></html>
+------=_NextPart_000_9B19_F4C4A647.1EEC63B0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://homelogic.nhvweb.net/homelogicxe/images/corner1.gif
+
+R0lGODlhCQARAPcAAFJrnO/vxv//////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////ywAAAAACQARAAAIIgAFCBwI
+oOBAAQUTEkxoECFDgw8VRpxIsaLFixgzatxYMCAAOw==
+------=_NextPart_000_9B19_F4C4A647.1EEC63B0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://homelogic.nhvweb.net/homelogicxe/images/corner2.gif
+
+R0lGODlhCQARAPcAAFJrnO/vxv//////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////ywAAAAACQARAAAIJwABABBA
+sKAAgQINHkSYkCBDhA4fDlwokeJDixIzatzIsaPHjxwDAgA7
+------=_NextPart_000_9B19_F4C4A647.1EEC63B0--

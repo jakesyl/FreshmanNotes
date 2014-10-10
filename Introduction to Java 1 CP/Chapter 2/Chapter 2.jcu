@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>Prog2.3</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>Prog2.3</label>
+			<showfiles>false</showfiles>
+		</project>
+		<project>
+			<label>Prog2.1</label>
+			<showfiles>false</showfiles>
+		</project>
+		<project>
+			<label>Prog2.2</label>
+			<showfiles>false</showfiles>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>Prog21\Lincoln.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Prog22\Prog22.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Prog2.3\Prog23.java</path>
+			<source>true</source>
+			<index>2</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+</workspace_user>

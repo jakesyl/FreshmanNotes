@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Chapter1</label>
+		<id>62</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>Chapter1.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Prog11\Prog11.jcp</path>
+		</project>
+		<project>
+			<path>Prog13\Prog13.jcp</path>
+		</project>
+		<project>
+			<path>Prog14\Prog14.jcp</path>
+		</project>
+		<project>
+			<path>Prog14b\Prog14b.jcp</path>
+		</project>
+		<project>
+			<path>Prog14c\Prog14c.jcp</path>
+		</project>
+		<project>
+			<path>Prog15\Prog15.jcp</path>
+		</project>
+	</projects>
+</workspace>
